@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Holiday</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd23ee9e-1ebb-469e-9cdf-ad0a21e37185</testCaseGuid>
+   <variable>
+      <defaultValue>'IDX'</defaultValue>
+      <description></description>
+      <id>ca62f4b8-25d3-43a3-a3ec-ff5778efdd9b</id>
+      <masked>false</masked>
+      <name>Exchange</name>
+   </variable>
+   <variable>
+      <defaultValue>'1 Januari 2021'</defaultValue>
+      <description></description>
+      <id>b49c4fed-1448-4c77-9fea-7286392274ff</id>
+      <masked>false</masked>
+      <name>Date</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tahun Baru'</defaultValue>
+      <description></description>
+      <id>d53938a5-d561-458c-8043-84147f195ce7</id>
+      <masked>false</masked>
+      <name>Holiday_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tahun Baru'</defaultValue>
+      <description></description>
+      <id>89cc6ee8-bd5e-4317-9b99-56d4fa0a94b5</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+</TestCaseEntity>

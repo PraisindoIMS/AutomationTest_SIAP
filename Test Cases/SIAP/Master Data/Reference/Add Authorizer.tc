@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Authorizer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a8f317c-85e4-41c4-b8ab-400decdd4041</testCaseGuid>
+   <variable>
+      <defaultValue>'Fiju'</defaultValue>
+      <description></description>
+      <id>e2480b27-9ddb-4f50-ba60-f91540e03fdc</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Direksi'</defaultValue>
+      <description></description>
+      <id>72d17bf0-6d93-4606-a88c-5893c632581b</id>
+      <masked>false</masked>
+      <name>Position</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Currency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6eba56aa-9179-4113-a8f3-5d6a6b9c7131</testCaseGuid>
+   <variable>
+      <defaultValue>'IDR'</defaultValue>
+      <description></description>
+      <id>0a87ba48-1a7e-4507-b11f-4078bee685ee</id>
+      <masked>false</masked>
+      <name>Currency_Code</name>
+   </variable>
+   <variable>
+      <defaultValue>'Indonesian Rupiah'</defaultValue>
+      <description></description>
+      <id>ada566dc-c514-45d0-bbaf-3b462eee6997</id>
+      <masked>false</masked>
+      <name>Currency_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Indonesian Rupiah'</defaultValue>
+      <description></description>
+      <id>3b919ef3-c66d-4a9f-8963-8f7ff8bcbdab</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+   <variable>
+      <defaultValue>'Rp'</defaultValue>
+      <description></description>
+      <id>ac08441c-3248-47cb-a4e3-7b66c4c0db3c</id>
+      <masked>false</masked>
+      <name>Symbol</name>
+   </variable>
+</TestCaseEntity>
