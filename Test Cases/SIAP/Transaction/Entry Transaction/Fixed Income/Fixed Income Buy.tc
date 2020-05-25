@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Normal test case, add new transaction fixed income</description>
+   <name>Fixed Income Buy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e05a04cf-2411-4fb0-9406-8ddd053dc5fc</testCaseGuid>
+</TestCaseEntity>
