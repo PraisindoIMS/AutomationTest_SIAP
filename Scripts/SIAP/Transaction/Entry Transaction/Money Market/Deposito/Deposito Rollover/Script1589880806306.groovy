@@ -26,35 +26,35 @@ WebUI.setEncryptedText(findTestObject('Page_Login Page/input_Password_Password')
 
 WebUI.sendKeys(findTestObject('Page_Login Page/input_Password_Password'), Keys.chord(Keys.ENTER))
 
-WebUI.doubleClick(findTestObject('Transaction/Deposito Rollover/span_SIAP'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Rollover/span_SIAP'))
 
-WebUI.doubleClick(findTestObject('Transaction/Deposito Rollover/span_Transaction'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Rollover/span_Transaction'))
 
-WebUI.doubleClick(findTestObject('Transaction/Deposito Rollover/span_Entry Transaction'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Rollover/span_Entry Transaction'))
 
-WebUI.doubleClick(findTestObject('Transaction/Deposito Rollover/span_Money Market'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Rollover/span_Money Market'))
 
-WebUI.doubleClick(findTestObject('Transaction/Deposito Rollover/span_Deposit'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Rollover/span_Deposit'))
 
-WebUI.click(findTestObject('Transaction/Deposito Rollover/span_Deposit Rollover'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Rollover/span_Deposit Rollover'))
 
-WebUI.click(findTestObject('Transaction/Deposito Rollover/td__ContentPlaceHolder1_dtBeginDate_B-1'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Rollover/td__ContentPlaceHolder1_dtBeginDate_B-1'))
 
-WebUI.click(findTestObject('Transaction/Deposito Rollover/td_1'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Rollover/td_1'))
 
-WebUI.click(findTestObject('Transaction/Deposito Rollover/div_Search'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Rollover/div_Search'))
 
-WebUI.click(findTestObject('Transaction/Deposito Rollover/a_ROLL'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Rollover/a_ROLL'))
 
-WebUI.click(findTestObject('Transaction/Deposito Rollover/td_'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Rollover/td_'))
 
-WebUI.click(findTestObject('Transaction/Deposito Rollover/td_29'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Rollover/td_29'))
 
-WebUI.click(findTestObject('Transaction/Deposito Rollover/div_Save'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Rollover/div_Save'))
 
 WebUI.sendKeys(findTestObject(null), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Transaction/Deposito Rollover/Save_Yes'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Rollover/Save_Yes'))
 
-WebUI.click(findTestObject('Transaction/Deposito Rollover/input_Deal has been saved Deal No  MM93_ctl_1d05dc'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Rollover/input_Deal has been saved Deal No  MM93_ctl_1d05dc'))
 
