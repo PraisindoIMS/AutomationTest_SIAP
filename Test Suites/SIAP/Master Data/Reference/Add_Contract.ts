@@ -20,7 +20,7 @@
       <guid>30fdfd30-4eb7-48ca-905b-86aecdbf0f97</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MENU/Menu_Master data_Reference</testCaseId>
+      <testCaseId>Test Cases/MENU/Master Dataa/Menu_Master data_Reference</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>2229433a-5f11-478b-aab0-02eb48afaa50</guid>

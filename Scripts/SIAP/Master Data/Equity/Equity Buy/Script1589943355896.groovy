@@ -32,7 +32,7 @@ WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Equity/Equity Bu
 
 WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Equity/Equity Buy/span_Entry Transaction'))
 
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Equity/Equity Buy/img_Entry Transaction_x-tree-node-icon icon-folder'))
+WebUI.doubleClick(findTestObject('null'))
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Buy/span_Equity Buy'))
 
@@ -72,7 +72,7 @@ WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Buy/td_P
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Buy/span_Tax Included _ContentPlaceHolder1_ASPx_a83975'))
 
-WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Buy/div_Save'))
+WebUI.click(findTestObject('null'))
 
 WebUI.sendKeys(findTestObject(null), Keys.chord(Keys.ENTER))
 

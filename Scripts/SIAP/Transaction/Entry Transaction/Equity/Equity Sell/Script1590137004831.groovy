@@ -56,17 +56,24 @@ WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/td_
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/td_ABN AMRO'))
 
-WebUI.setText(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/input_Unit Price_ctl00ContentPlaceHolder1AS_f7c703'), '1212.75')
+WebUI.setText(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/input_Unit Price_ctl00ContentPlaceHolder1AS_f7c703'), 
+    '1212.75')
 
-WebUI.setText(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/input_Quantity_ctl00ContentPlaceHolder1ASPx_e13826'), '5000')
+WebUI.setText(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/input_Quantity_ctl00ContentPlaceHolder1ASPx_e13826'), 
+    '5000')
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/td_No TaxPPnPPh23OldPrepaid Tax 29PAJAK TAK_d068ae'))
 
-WebUI.setText(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/input_Quantity_ctl00ContentPlaceHolder1ASPx_e13826'), '5000')
+WebUI.setText(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/input_Quantity_ctl00ContentPlaceHolder1ASPx_e13826'), 
+    '5000')
+
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/Tax'))
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/td_PPH23'))
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/div_Save'))
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/input_Deal has been saved Deal No  EQ47_ctl_7b93d3'))
+
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/Btn OK'))
 

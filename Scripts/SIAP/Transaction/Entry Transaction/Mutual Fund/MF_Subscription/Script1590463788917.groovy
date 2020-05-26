@@ -28,7 +28,7 @@ WebUI.sendKeys(findTestObject('Page_Login Page/input_Password_Password'), Keys.c
 
 WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Subscription/span_SIAP'))
 
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Subscription/span_Transaction'))
+WebUI.doubleClick(findTestObject('null'))
 
 WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Subscription/span_Entry Transaction'))
 
