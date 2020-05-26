@@ -38,7 +38,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ext-gen87&quot;)/li[@class=&quot;x-tree-node&quot;]/div[@class=&quot;x-tree-node-el x-tree-node-leaf x-unselectable x-tree-node-over&quot;]/a[@class=&quot;x-tree-node-anchor&quot;]/span[1]</value>
+      <value>id(&quot;ext-gen87&quot;)/li[@class=&quot;x-tree-node&quot;]/div[@class=&quot;x-tree-node-el x-tree-node-leaf x-unselectable  x-tree-node-over&quot;]/a[@class=&quot;x-tree-node-anchor&quot;]/span[1]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>

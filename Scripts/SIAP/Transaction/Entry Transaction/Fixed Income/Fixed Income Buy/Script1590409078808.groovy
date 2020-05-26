@@ -27,7 +27,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Transaction/Fixed Incom
 
 WebUI.click(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_Login Page/input_Password_btnLogin'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/span_SIAP'))
+WebUI.doubleClick(findTestObject('Transaction/Fixed Income Buy/Page_IMS/span_SIAP'))
 
 WebUI.doubleClick(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/span_Transaction'))
 
@@ -73,8 +73,10 @@ WebUI.click(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_
 WebUI.setText(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/input__ctl00ContentPlaceHolder1PanelMainPan_72cdaf'), 
     '100000')
 
+WebUI.doubleClick(findTestObject('Transaction/Fixed Income Buy/Page_IMS/input__ctl00ContentPlaceHolder1PanelMainPan_820913'))
+
 WebUI.setText(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/input__ctl00ContentPlaceHolder1PanelMainPan_820913'), 
-    '200')
+    '101')
 
 WebUI.click(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/input__ctl00ContentPlaceHolder1PanelMainPan_b855f5'))
 
@@ -84,27 +86,18 @@ WebUI.click(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_
 
 WebUI.click(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/input_Cancel_ctl00ContentPlaceHolder1PanelM_db32b8'))
 
-WebUI.click(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/input_Cancel_ctl00ContentPlaceHolder1PanelM_db32b8'))
-
 WebUI.click(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/img_Cancel_dxgvCommandColumnItem_Glass dxgv__cci'))
 
 WebUI.click(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/img__dxgvCommandColumnItem_Glass dxgv__cci'))
 
-WebUI.setText(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/input__ctl00ContentPlaceHolder1PanelMainPan_820913'), 
-    '200')
-
-WebUI.click(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/img_Cancel_dxgvCommandColumnItem_Glass dxgv__cci'))
-
-WebUI.click(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/img__dxgvCommandColumnItem_Glass dxgv__cci'))
+WebUI.doubleClick(findTestObject('Transaction/Fixed Income Buy/Page_IMS/input__ctl00ContentPlaceHolder1PanelMainPan_820913'))
 
 WebUI.setText(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/input__ctl00ContentPlaceHolder1PanelMainPan_820913'), 
-    '105')
-
-WebUI.click(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/img_Cancel_dxgvCommandColumnItem_Glass dxgv__cci'))
+    '102')
 
 WebUI.click(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/div_Save'))
 
-WebUI.click(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/input_acquisition price_ctl00UCMessageBox1btnOK'))
+WebUI.sendKeys(findTestObject(null), Keys.chord(Keys.ENTER))
 
 WebUI.closeBrowser()
 
