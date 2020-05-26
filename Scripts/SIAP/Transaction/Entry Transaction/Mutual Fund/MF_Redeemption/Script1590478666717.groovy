@@ -26,51 +26,51 @@ WebUI.setEncryptedText(findTestObject('Page_Login Page/input_Password_Password')
 
 WebUI.sendKeys(findTestObject('Page_Login Page/input_Password_Password'), Keys.chord(Keys.ENTER))
 
-WebUI.doubleClick(findTestObject('MF_Redemption/span_SIAP'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/span_SIAP'))
 
-WebUI.doubleClick(findTestObject('MF_Redemption/span_Transaction'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/span_Transaction'))
 
-WebUI.doubleClick(findTestObject('MF_Redemption/span_Entry Transaction'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/span_Entry Transaction'))
 
-WebUI.doubleClick(findTestObject('MF_Redemption/span_Mutual Fund'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/span_Mutual Fund'))
 
-WebUI.click(findTestObject('MF_Redemption/span_Redemption'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/span_Redemption'))
 
-WebUI.click(findTestObject('MF_Redemption/td_Product_ContentPlaceHolder1_pnlAll_cmbPFolio_B-1'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/td_Product_ContentPlaceHolder1_pnlAll_cmbPFolio_B-1'))
 
-WebUI.click(findTestObject('MF_Redemption/td_DPJASINDO'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/td_DPJASINDO'))
 
-WebUI.click(findTestObject('MF_Redemption/td_Instrument_ContentPlaceHolder1_pnlAll_cm_07e3c8'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/td_Instrument_ContentPlaceHolder1_pnlAll_cm_07e3c8'))
 
-WebUI.click(findTestObject('MF_Redemption/td_SDKM'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/td_SDKM'))
 
-WebUI.click(findTestObject('MF_Redemption/td_Sell Method_ContentPlaceHolder1_pnlAll_c_160d04'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/td_Sell Method_ContentPlaceHolder1_pnlAll_c_160d04'))
 
-WebUI.click(findTestObject('MF_Redemption/td_AVG'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/td_AVG'))
 
-WebUI.click(findTestObject('MF_Redemption/td_Counter Party_ContentPlaceHolder1_pnlAll_14a27d'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/td_Counter Party_ContentPlaceHolder1_pnlAll_14a27d'))
 
-WebUI.click(findTestObject('MF_Redemption/td_BCA'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/td_BCA'))
 
-WebUI.click(findTestObject('MF_Redemption/td_May 2020SunMonTueWedThuFriSat18262728293_bbf064'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/td_May 2020SunMonTueWedThuFriSat18262728293_bbf064'))
 
-WebUI.click(findTestObject('MF_Redemption/td_25'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/td_25'))
 
-WebUI.click(findTestObject('MF_Redemption/td_Settle Date_ContentPlaceHolder1_pnlAll_d_d388b6'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/td_Settle Date_ContentPlaceHolder1_pnlAll_d_d388b6'))
 
-WebUI.click(findTestObject('MF_Redemption/td_27'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/td_27'))
 
-WebUI.setText(findTestObject('MF_Redemption/input_NAVUnit_ctl00ContentPlaceHolder1pnlAl_fa4d3f'), '2301.54')
+WebUI.setText(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/input_NAVUnit_ctl00ContentPlaceHolder1pnlAl_fa4d3f'), '2301.54')
 
-WebUI.setText(findTestObject('MF_Redemption/input_Loading_ctl00ContentPlaceHolder1pnlAl_592ae0'), '1000')
+WebUI.setText(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/input_Loading_ctl00ContentPlaceHolder1pnlAl_592ae0'), '1000')
 
-WebUI.setText(findTestObject('MF_Redemption/textarea_Remarks_ctl00ContentPlaceHolder1pn_7a439a'), 'Test Katalon')
+WebUI.setText(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/textarea_Remarks_ctl00ContentPlaceHolder1pn_7a439a'), 'Test Katalon')
 
-WebUI.click(findTestObject('MF_Redemption/div_Save'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/div_Save'))
 
-WebUI.click(findTestObject('MF_Redemption/input_Are you sure want to save_ctl00UCMess_122409'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/input_Are you sure want to save_ctl00UCMess_122409'))
 
-WebUI.click(findTestObject('MF_Redemption/input_Deal has been saved Deal No  MF8_ctl0_d55090'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Redemption/input_Deal has been saved Deal No  MF8_ctl0_d55090'))
 
 WebUI.closeBrowser()
 
