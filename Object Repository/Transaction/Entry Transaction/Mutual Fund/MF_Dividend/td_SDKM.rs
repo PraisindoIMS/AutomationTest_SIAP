@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_25</name>
+   <name>td_SDKM</name>
    <tag></tag>
-   <elementGuidId>ac8e063e-0281-4f96-b8b2-8a9bdc9849a3</elementGuidId>
+   <elementGuidId>412adee2-9cfd-40e8-b7d3-0065607f8a80</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='ContentPlaceHolder1_ASPxRoundPanel1_detailCallbackPanel_dtDealDate_DDD_C_mt']/tbody/tr[6]/td[3]</value>
+         <value>//tr[@id='ContentPlaceHolder1_pnlAll_cmbInstrument_DDD_gv_DXDataRow0']/td</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -24,83 +24,76 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dxeCalendarDay_Glass dxeCalendarSelected_Glass</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>savedcursor</name>
-      <type>Main</type>
-      <value>[object Object]</value>
+      <value>dxgv</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>25</value>
+      <value>SDKM</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_ASPxRoundPanel1_detailCallbackPanel_dtDealDate_DDD_C_mt&quot;)/tbody[1]/tr[6]/td[@class=&quot;dxeCalendarDay_Glass dxeCalendarSelected_Glass&quot;]</value>
+      <value>id(&quot;ContentPlaceHolder1_pnlAll_cmbInstrument_DDD_gv_DXDataRow0&quot;)/td[@class=&quot;dxgv&quot;]</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_IMS/iframe_This product is licensed to PT Prais_a59df3</value>
+      <value>Object Repository/Transaction/Entry Transaction/Mutual Fund/MF_Dividend/iframe_This product is licensed to PT Prais_b9d1db</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='ContentPlaceHolder1_ASPxRoundPanel1_detailCallbackPanel_dtDealDate_DDD_C_mt']/tbody/tr[6]/td[3]</value>
+      <value>//tr[@id='ContentPlaceHolder1_pnlAll_cmbInstrument_DDD_gv_DXDataRow0']/td</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::td[35]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[2]/following::td[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[1]/following::td[36]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code'])[2]/following::td[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[14]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Si Dana Kas Maxima'])[1]/preceding::td[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::td[18]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RD BDKM'])[1]/preceding::td[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='25']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='SDKM']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td/table/tbody/tr[6]/td[3]</value>
+      <value>//td/table/tbody/tr[2]/td</value>
    </webElementXpaths>
 </WebElementEntity>

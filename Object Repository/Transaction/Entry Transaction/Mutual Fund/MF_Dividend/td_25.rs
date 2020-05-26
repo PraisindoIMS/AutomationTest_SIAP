@@ -3,11 +3,11 @@
    <description></description>
    <name>td_25</name>
    <tag></tag>
-   <elementGuidId>ac8e063e-0281-4f96-b8b2-8a9bdc9849a3</elementGuidId>
+   <elementGuidId>d18bca83-2a66-4843-9482-f09c9d08c6a0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='ContentPlaceHolder1_ASPxRoundPanel1_detailCallbackPanel_dtDealDate_DDD_C_mt']/tbody/tr[6]/td[3]</value>
+         <value>//table[@id='ContentPlaceHolder1_pnlAll_cpDealDate_dtDealDate_DDD_C_mt']/tbody/tr[6]/td[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -45,21 +45,21 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_ASPxRoundPanel1_detailCallbackPanel_dtDealDate_DDD_C_mt&quot;)/tbody[1]/tr[6]/td[@class=&quot;dxeCalendarDay_Glass dxeCalendarSelected_Glass&quot;]</value>
+      <value>id(&quot;ContentPlaceHolder1_pnlAll_cpDealDate_dtDealDate_DDD_C_mt&quot;)/tbody[1]/tr[6]/td[@class=&quot;dxeCalendarDay_Glass dxeCalendarSelected_Glass&quot;]</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_IMS/iframe_This product is licensed to PT Prais_a59df3</value>
+      <value>Object Repository/Transaction/Entry Transaction/Mutual Fund/MF_Dividend/iframe_This product is licensed to PT Prais_b9d1db</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='ContentPlaceHolder1_ASPxRoundPanel1_detailCallbackPanel_dtDealDate_DDD_C_mt']/tbody/tr[6]/td[3]</value>
+      <value>//table[@id='ContentPlaceHolder1_pnlAll_cpDealDate_dtDealDate_DDD_C_mt']/tbody/tr[6]/td[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

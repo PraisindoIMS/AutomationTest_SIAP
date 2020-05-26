@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_25</name>
+   <name>span_Equity IPO</name>
    <tag></tag>
-   <elementGuidId>ac8e063e-0281-4f96-b8b2-8a9bdc9849a3</elementGuidId>
+   <elementGuidId>680934e2-1406-4faf-92cf-82c4fbbde8eb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='ContentPlaceHolder1_ASPxRoundPanel1_detailCallbackPanel_dtDealDate_DDD_C_mt']/tbody/tr[6]/td[3]</value>
+         <value>//ul[@id='ext-gen87']/li[3]/div/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,90 +17,76 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>td</value>
+      <value>span</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>unselectable</name>
       <type>Main</type>
-      <value>dxeCalendarDay_Glass dxeCalendarSelected_Glass</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>savedcursor</name>
-      <type>Main</type>
-      <value>[object Object]</value>
+      <value>on</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>25</value>
+      <value>Equity IPO</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_ASPxRoundPanel1_detailCallbackPanel_dtDealDate_DDD_C_mt&quot;)/tbody[1]/tr[6]/td[@class=&quot;dxeCalendarDay_Glass dxeCalendarSelected_Glass&quot;]</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Page_IMS/iframe_This product is licensed to PT Prais_a59df3</value>
+      <value>id(&quot;ext-gen87&quot;)/li[@class=&quot;x-tree-node&quot;]/div[@class=&quot;x-tree-node-el x-tree-node-leaf x-unselectable  x-tree-node-over&quot;]/a[@class=&quot;x-tree-node-anchor&quot;]/span[1]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='ContentPlaceHolder1_ASPxRoundPanel1_detailCallbackPanel_dtDealDate_DDD_C_mt']/tbody/tr[6]/td[3]</value>
+      <value>//ul[@id='ext-gen87']/li[3]/div/a/span</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::td[35]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Equity Sell'])[1]/following::span[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[1]/following::td[36]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Equity Buy'])[1]/following::span[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[14]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fixed Income'])[1]/preceding::span[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::td[18]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit Pricing'])[1]/preceding::span[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='25']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='Equity IPO']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td/table/tbody/tr[6]/td[3]</value>
+      <value>//li[8]/ul/li[2]/ul/li/ul/li[3]/div/a/span</value>
    </webElementXpaths>
 </WebElementEntity>

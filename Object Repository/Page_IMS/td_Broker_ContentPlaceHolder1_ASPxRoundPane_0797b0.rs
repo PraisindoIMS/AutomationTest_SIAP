@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_25</name>
+   <name>td_Broker_ContentPlaceHolder1_ASPxRoundPane_0797b0</name>
    <tag></tag>
-   <elementGuidId>ac8e063e-0281-4f96-b8b2-8a9bdc9849a3</elementGuidId>
+   <elementGuidId>21b6ec85-5343-4fee-99bf-abe7f87f0b86</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='ContentPlaceHolder1_ASPxRoundPanel1_detailCallbackPanel_dtDealDate_DDD_C_mt']/tbody/tr[6]/td[3]</value>
+         <value>//td[@id='ContentPlaceHolder1_ASPxRoundPanel1_cmbCParty_B-1']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -20,32 +20,32 @@
       <value>td</value>
    </webElementProperties>
    <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ContentPlaceHolder1_ASPxRoundPanel1_cmbCParty_B-1</value>
+   </webElementProperties>
+   <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dxeCalendarDay_Glass dxeCalendarSelected_Glass</value>
+      <value>dxeButtonEditButton_Glass dxeButtonEditButtonHover_Glass</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>savedcursor</name>
+      <name>onmousedown</name>
       <type>Main</type>
-      <value>[object Object]</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>25</value>
+      <value>return aspxDDDropDown('ContentPlaceHolder1_ASPxRoundPanel1_cmbCParty', event)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_ASPxRoundPanel1_detailCallbackPanel_dtDealDate_DDD_C_mt&quot;)/tbody[1]/tr[6]/td[@class=&quot;dxeCalendarDay_Glass dxeCalendarSelected_Glass&quot;]</value>
+      <value>id(&quot;ContentPlaceHolder1_ASPxRoundPanel1_cmbCParty_B-1&quot;)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,50 +57,50 @@
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='ContentPlaceHolder1_ASPxRoundPanel1_cmbCParty_B-1']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='ContentPlaceHolder1_ASPxRoundPanel1_detailCallbackPanel_dtDealDate_DDD_C_mt']/tbody/tr[6]/td[3]</value>
+      <value>//table[@id='ContentPlaceHolder1_ASPxRoundPanel1_cmbCParty']/tbody/tr/td[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::td[35]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Broker'])[1]/following::td[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[1]/following::td[36]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading…'])[4]/following::td[7]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[14]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CParty Code'])[1]/preceding::td[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::td[18]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='25']/parent::*</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CParty Name'])[1]/preceding::td[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td/table/tbody/tr[6]/td[3]</value>
+      <value>//tr[5]/td[2]/table/tbody/tr/td[3]</value>
    </webElementXpaths>
 </WebElementEntity>

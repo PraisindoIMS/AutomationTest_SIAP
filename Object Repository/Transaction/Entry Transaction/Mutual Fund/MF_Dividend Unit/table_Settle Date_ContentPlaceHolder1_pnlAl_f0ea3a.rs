@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_25</name>
+   <name>table_Settle Date_ContentPlaceHolder1_pnlAl_f0ea3a</name>
    <tag></tag>
-   <elementGuidId>ac8e063e-0281-4f96-b8b2-8a9bdc9849a3</elementGuidId>
+   <elementGuidId>2fea6588-a967-41d9-be7c-7c2e2818d60c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='ContentPlaceHolder1_ASPxRoundPanel1_detailCallbackPanel_dtDealDate_DDD_C_mt']/tbody/tr[6]/td[3]</value>
+         <value>//table[@id='ContentPlaceHolder1_pnlAll_dtSettleDate1']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,90 +17,97 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>td</value>
+      <value>table</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dxeCalendarDay_Glass dxeCalendarSelected_Glass</value>
+      <value>dxeButtonEdit_Glass</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>savedcursor</name>
+      <name>cellspacing</name>
       <type>Main</type>
-      <value>[object Object]</value>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cellpadding</name>
+      <type>Main</type>
+      <value>0</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>id</name>
       <type>Main</type>
-      <value>25</value>
+      <value>ContentPlaceHolder1_pnlAll_dtSettleDate1</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_ASPxRoundPanel1_detailCallbackPanel_dtDealDate_DDD_C_mt&quot;)/tbody[1]/tr[6]/td[@class=&quot;dxeCalendarDay_Glass dxeCalendarSelected_Glass&quot;]</value>
+      <value>id(&quot;ContentPlaceHolder1_pnlAll_dtSettleDate1&quot;)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_IMS/iframe_This product is licensed to PT Prais_a59df3</value>
+      <value>Object Repository/Transaction/Entry Transaction/Mutual Fund/MF_Dividend Unit/iframe_This product is licensed to PT Prais_6ddf54</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//table[@id='ContentPlaceHolder1_pnlAll_dtSettleDate1']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='ContentPlaceHolder1_ASPxRoundPanel1_detailCallbackPanel_dtDealDate_DDD_C_mt']/tbody/tr[6]/td[3]</value>
+      <value>//div[@id='ContentPlaceHolder1_pnlAll']/table[2]/tbody/tr/td[5]/table</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::td[35]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settle Date'])[1]/following::table[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[1]/following::td[36]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading…'])[5]/following::table[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[14]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='May 2020'])[2]/preceding::table[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::td[18]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='25']/parent::*</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[2]/preceding::table[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td/table/tbody/tr[6]/td[3]</value>
+      <value>//td[5]/table</value>
    </webElementXpaths>
 </WebElementEntity>

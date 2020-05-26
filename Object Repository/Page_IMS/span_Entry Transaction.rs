@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Entry Transaction</name>
    <tag></tag>
-   <elementGuidId>0a0ce2d9-7608-49db-8cff-293b604b9853</elementGuidId>
+   <elementGuidId>638f65f7-5792-4218-8f6e-53d251130fee</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
