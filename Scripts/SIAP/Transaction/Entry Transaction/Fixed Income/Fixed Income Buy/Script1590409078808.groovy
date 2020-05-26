@@ -88,7 +88,7 @@ WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Inc
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/img_Cancel_dxgvCommandColumnItem_Glass dxgv__cci'))
 
-WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/img__dxgvCommandColumnItem_Glass dxgv__cci'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/img_dxgvCommandColumnItem_Glass dxgv_cci'))
 
 WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/input__ctl00ContentPlaceHolder1PanelMainPan_820913'))
 
@@ -100,4 +100,3 @@ WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Inc
 WebUI.sendKeys(findTestObject(null), Keys.chord(Keys.ENTER))
 
 WebUI.closeBrowser()
-

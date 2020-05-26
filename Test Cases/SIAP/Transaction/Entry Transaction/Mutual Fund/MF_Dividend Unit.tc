@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
@@ -6,3 +7,13 @@
    <comment></comment>
    <testCaseGuid>aef4bf2e-7dbd-42a6-a066-d8dcbe81b21d</testCaseGuid>
 </TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MF_Dividend Unit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aef4bf2e-7dbd-42a6-a066-d8dcbe81b21d</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> branch 'master' of https://github.com/PraisindoIMS/AutomationTest_SIAP.git

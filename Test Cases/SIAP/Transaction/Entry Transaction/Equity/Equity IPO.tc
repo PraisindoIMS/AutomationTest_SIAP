@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
@@ -6,3 +7,13 @@
    <comment></comment>
    <testCaseGuid>510e0ee7-233a-45eb-8cbe-0060bb4c26e7</testCaseGuid>
 </TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Equity IPO</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>510e0ee7-233a-45eb-8cbe-0060bb4c26e7</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> branch 'master' of https://github.com/PraisindoIMS/AutomationTest_SIAP.git

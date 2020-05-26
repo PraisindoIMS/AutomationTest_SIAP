@@ -58,7 +58,11 @@ WebUI.click(findTestObject('Object Repository/Page_IMS/td_'))
 
 WebUI.click(findTestObject('Object Repository/Page_IMS/td_25'))
 
+<<<<<<< HEAD
 WebUI.click(findTestObject('Page_IMS/td_'))
+=======
+WebUI.click(findTestObject('Object Repository/Page_IMS/td_May 2020SunMonTueWedThuFriSat18262728293_bbf064'))
+>>>>>>> branch 'master' of https://github.com/PraisindoIMS/AutomationTest_SIAP.git
 
 WebUI.click(findTestObject('Object Repository/Page_IMS/td_26'))
 
