@@ -23,7 +23,7 @@
       <testCaseId>Test Cases/MENU/Transaction/Entry Transaction/Equity</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>c2865c70-25aa-4473-ab5d-20c089765b15</guid>
+      <guid>50d70c72-36a9-41a1-92d9-223e98ac6087</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/SIAP/Transaction/Entry Transaction/Equity/Equity Buy</testCaseId>
