@@ -26,45 +26,45 @@ WebUI.setEncryptedText(findTestObject('Page_Login Page/input_Password_Password')
 
 WebUI.sendKeys(findTestObject('Page_Login Page/input_Password_Password'), Keys.chord(Keys.ENTER))
 
-WebUI.doubleClick(findTestObject('Deposito Placement/span_SIAP'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/span_SIAP'))
 
-WebUI.doubleClick(findTestObject('Deposito Placement/span_Transaction'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/span_Transaction'))
 
-WebUI.doubleClick(findTestObject('Deposito Placement/span_Entry Transaction'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/span_Entry Transaction'))
 
-WebUI.doubleClick(findTestObject('Deposito Placement/span_Money Market'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/span_Money Market'))
 
-WebUI.doubleClick(findTestObject('Deposito Placement/span_Deposit'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/span_Deposit'))
 
-WebUI.click(findTestObject('Deposito Placement/span_Deposit Placement'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/span_Deposit Placement'))
 
-WebUI.click(findTestObject('Deposito Placement/td_Product_ContentPlaceHolder1_cmbPFolio_B-1'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/td_Product_ContentPlaceHolder1_cmbPFolio_B-1'))
 
-WebUI.click(findTestObject('Deposito Placement/td_BBMNFD'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/td_BBMNFD'))
 
-WebUI.click(findTestObject('Deposito Placement/td_Instrument_ContentPlaceHolder1_cmbInstru_5fa045'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/td_Instrument_ContentPlaceHolder1_cmbInstru_5fa045'))
 
-WebUI.click(findTestObject('Deposito Placement/td_TDP-AGRIS2'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/td_TDP-AGRIS2'))
 
-WebUI.click(findTestObject('Deposito Placement/td_Bank_ContentPlaceHolder1_cmbCPartyGroup1_B-1'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/td_Bank_ContentPlaceHolder1_cmbCPartyGroup1_B-1'))
 
-WebUI.click(findTestObject('Deposito Placement/td_HSBC1'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/td_HSBC1'))
 
-WebUI.setText(findTestObject('Deposito Placement/input_Principal Amount_ctl00ContentPlaceHol_83befb'), '5000000')
+WebUI.setText(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/input_Principal Amount_ctl00ContentPlaceHol_83befb'), '5000000')
 
-WebUI.setText(findTestObject('Deposito Placement/input_Interest Rate_ctl00ContentPlaceHolder_660976'), '5.5')
+WebUI.setText(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/input_Interest Rate_ctl00ContentPlaceHolder_660976'), '5.5')
 
-WebUI.click(findTestObject('Deposito Placement/td_'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/td_'))
 
-WebUI.click(findTestObject('Deposito Placement/td_29'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/td_29'))
 
-WebUI.click(findTestObject('Deposito Placement/div_Save'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/div_Save'))
 
-WebUI.click(findTestObject('Deposito Placement/Button_OK_Save'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/Button_OK_Save'))
 
 WebUI.acceptAlert()
 
-WebUI.click(findTestObject('Deposito Placement/input_Deal has been saved Deal No  MM89_ctl_5351c9'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Placement/input_Deal has been saved Deal No  MM89_ctl_5351c9'))
 
 WebUI.acceptAlert()
 

@@ -26,35 +26,35 @@ WebUI.setEncryptedText(findTestObject('Page_Login Page/input_Password_Password')
 
 WebUI.sendKeys(findTestObject('Page_Login Page/input_Password_Password'), Keys.chord(Keys.ENTER))
 
-WebUI.doubleClick(findTestObject('Deposito Redemption/span_SIAP'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Redemption/span_SIAP'))
 
-WebUI.doubleClick(findTestObject('Deposito Redemption/span_Transaction'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Redemption/span_Transaction'))
 
-WebUI.doubleClick(findTestObject('Deposito Redemption/span_Entry Transaction'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Redemption/span_Entry Transaction'))
 
-WebUI.doubleClick(findTestObject('Deposito Redemption/span_Money Market'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Redemption/span_Money Market'))
 
-WebUI.doubleClick(findTestObject('Deposito Redemption/span_Deposit'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Redemption/span_Deposit'))
 
-WebUI.click(findTestObject('Deposito Redemption/span_Deposit Redemption'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Redemption/span_Deposit Redemption'))
 
-WebUI.click(findTestObject('Deposito Redemption/td__ContentPlaceHolder1_dtBeginDate_B-1'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Redemption/td__ContentPlaceHolder1_dtBeginDate_B-1'))
 
-WebUI.click(findTestObject('Deposito Redemption/img__ContentPlaceHolder1_dtBeginDate_DDD_C_PMCImg'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Redemption/img__ContentPlaceHolder1_dtBeginDate_DDD_C_PMCImg'))
 
-WebUI.click(findTestObject('Deposito Redemption/img__ContentPlaceHolder1_dtBeginDate_DDD_C_PMCImg'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Redemption/img__ContentPlaceHolder1_dtBeginDate_DDD_C_PMCImg'))
 
-WebUI.click(findTestObject('Deposito Redemption/td_2'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Redemption/td_2'))
 
-WebUI.click(findTestObject('Deposito Redemption/div_Search'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Redemption/div_Search'))
 
-WebUI.click(findTestObject('Deposito Redemption/a_RED'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Redemption/a_RED'))
 
-WebUI.click(findTestObject('Deposito Redemption/div_Save'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Redemption/div_Save'))
 
 WebUI.sendKeys(findTestObject(null), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Deposito Redemption/Save'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Redemption/Save'))
 
-WebUI.click(findTestObject('Deposito Redemption/input_Deal has been saved Deal No  MM94_ctl_3293f2'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Deposito/Deposito Redemption/input_Deal has been saved Deal No  MM94_ctl_3293f2'))
 

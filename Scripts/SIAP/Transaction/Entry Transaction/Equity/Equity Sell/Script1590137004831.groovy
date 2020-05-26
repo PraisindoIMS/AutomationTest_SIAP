@@ -26,47 +26,47 @@ WebUI.setEncryptedText(findTestObject('Page_Login Page/input_Password_Password')
 
 WebUI.sendKeys(findTestObject('Page_Login Page/input_Password_Password'), Keys.chord(Keys.ENTER))
 
-WebUI.doubleClick(findTestObject('Object Repository/Page_IMS/span_SIAP'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/span_SIAP'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Page_IMS/span_Transaction'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/span_Transaction'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Page_IMS/span_Entry Transaction'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/span_Entry Transaction'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Page_IMS/span_Equity'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/span_Equity'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/span_Equity Sell'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/span_Equity Sell'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_Product_ContentPlaceHolder1_ASPxRoundPanel1_cmbPFolio_B-1'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/td_Product_ContentPlaceHolder1_ASPxRoundPanel1_cmbPFolio_B-1'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_RDBDKS'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/td_RDBDKS'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_Instrument_ContentPlaceHolder1_ASPxRound_986fd4'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/td_Instrument_ContentPlaceHolder1_ASPxRound_986fd4'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_ABBA'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/td_ABBA'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_InvClass_ContentPlaceHolder1_ASPxRoundPa_7d86cd'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/td_InvClass_ContentPlaceHolder1_ASPxRoundPa_7d86cd'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_TRADING'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/td_TRADING'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_Sell Method_ContentPlaceHolder1_ASPxRoun_e7eef3'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/td_Sell Method_ContentPlaceHolder1_ASPxRoun_e7eef3'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_AVG'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/td_AVG'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_Broker_ContentPlaceHolder1_ASPxRoundPane_0797b0'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/td_Broker_ContentPlaceHolder1_ASPxRoundPane_0797b0'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_ABN AMRO'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/td_ABN AMRO'))
 
-WebUI.setText(findTestObject('Object Repository/Page_IMS/input_Unit Price_ctl00ContentPlaceHolder1AS_f7c703'), '1212.75')
+WebUI.setText(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/input_Unit Price_ctl00ContentPlaceHolder1AS_f7c703'), '1212.75')
 
-WebUI.setText(findTestObject('Object Repository/Page_IMS/input_Quantity_ctl00ContentPlaceHolder1ASPx_e13826'), '5000')
+WebUI.setText(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/input_Quantity_ctl00ContentPlaceHolder1ASPx_e13826'), '5000')
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_No TaxPPnPPh23OldPrepaid Tax 29PAJAK TAK_d068ae'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/td_No TaxPPnPPh23OldPrepaid Tax 29PAJAK TAK_d068ae'))
 
-WebUI.setText(findTestObject('Object Repository/Page_IMS/input_Quantity_ctl00ContentPlaceHolder1ASPx_e13826'), '5000')
+WebUI.setText(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/input_Quantity_ctl00ContentPlaceHolder1ASPx_e13826'), '5000')
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_PPH23'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/td_PPH23'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/div_Save'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/div_Save'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/input_Deal has been saved Deal No  EQ47_ctl_7b93d3'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/input_Deal has been saved Deal No  EQ47_ctl_7b93d3'))
 
