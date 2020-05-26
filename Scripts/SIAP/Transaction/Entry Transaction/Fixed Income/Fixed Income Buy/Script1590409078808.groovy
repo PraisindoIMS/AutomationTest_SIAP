@@ -65,9 +65,6 @@ WebUI.setText(findTestObject('Object Repository/Transaction/Fixed Income Buy/Pag
 WebUI.setText(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/input_Fee ()_ctl00ContentPlaceHolder1PanelM_17e3c2'), 
     '1')
 
-WebUI.setText(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/textarea_Remarks 2_ctl00ContentPlaceHolder1_c7fa5c'), 
-    'Automation Test by Katalon')
-
 WebUI.click(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/img'))
 
 WebUI.setText(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/input__ctl00ContentPlaceHolder1PanelMainPan_72cdaf'), 
@@ -94,6 +91,9 @@ WebUI.doubleClick(findTestObject('Transaction/Fixed Income Buy/Page_IMS/input__c
 
 WebUI.setText(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/input__ctl00ContentPlaceHolder1PanelMainPan_820913'), 
     '102')
+
+WebUI.setText(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/textarea_Remarks 2_ctl00ContentPlaceHolder1_c7fa5c'), 
+    'Automation Test by Katalon')
 
 WebUI.click(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/div_Save'))
 
