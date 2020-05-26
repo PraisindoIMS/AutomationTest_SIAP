@@ -65,10 +65,14 @@ WebUI.setText(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed I
 WebUI.setText(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/input_Fee ()_ctl00ContentPlaceHolder1PanelM_17e3c2'), 
     '1')
 
+<<<<<<< HEAD
+WebUI.click(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/img'))
+=======
 WebUI.setText(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/textarea_Remarks 2_ctl00ContentPlaceHolder1_c7fa5c'), 
     'Automation Test by Katalon')
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/img'))
+>>>>>>> branch 'master' of https://github.com/PraisindoIMS/AutomationTest_SIAP.git
 
 WebUI.setText(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/input__ctl00ContentPlaceHolder1PanelMainPan_72cdaf'), 
     '100000')
@@ -95,7 +99,14 @@ WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Fixed Income/Fix
 WebUI.setText(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/input__ctl00ContentPlaceHolder1PanelMainPan_820913'), 
     '102')
 
+<<<<<<< HEAD
+WebUI.setText(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/textarea_Remarks 2_ctl00ContentPlaceHolder1_c7fa5c'), 
+    'Automation Test by Katalon')
+
+WebUI.click(findTestObject('Object Repository/Transaction/Fixed Income Buy/Page_IMS/div_Save'))
+=======
 WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/div_Save'))
+>>>>>>> branch 'master' of https://github.com/PraisindoIMS/AutomationTest_SIAP.git
 
 WebUI.sendKeys(findTestObject(null), Keys.chord(Keys.ENTER))
 
