@@ -26,53 +26,53 @@ WebUI.setEncryptedText(findTestObject('Page_Login Page/input_Password_Password')
 
 WebUI.sendKeys(findTestObject('Page_Login Page/input_Password_Password'), Keys.chord(Keys.ENTER))
 
-WebUI.doubleClick(findTestObject('Object Repository/Page_IMS/span_SIAP'))
+WebUI.doubleClick(findTestObject('EQ buy/span_SIAP'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Page_IMS/span_Transaction'))
+WebUI.doubleClick(findTestObject('EQ buy/span_Transaction'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Page_IMS/span_Entry Transaction'))
+WebUI.doubleClick(findTestObject('EQ buy/span_Entry Transaction'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Page_IMS/span_Equity'))
+WebUI.doubleClick(findTestObject('EQ buy/span_Equity'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/span_Equity Buy'))
+WebUI.click(findTestObject('EQ buy/span_Equity Buy'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_Product_ContentPlaceHolder1_ASPxRoundPanel1_cmbPFolio_B-1'))
+WebUI.click(findTestObject('EQ buy/td_Product_ContentPlaceHolder1_ASPxRoundPanel1_cmbPFolio_B-1'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_RDBDKS'))
+WebUI.click(findTestObject('EQ buy/td_RDBDKS'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_Instrument_ContentPlaceHolder1_ASPxRound_986fd4'))
+WebUI.click(findTestObject('EQ buy/td_Instrument_ContentPlaceHolder1_ASPxRound_986fd4'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_ABMM'))
+WebUI.click(findTestObject('EQ buy/td_ABMM'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_InvClass_ContentPlaceHolder1_ASPxRoundPa_7d86cd'))
+WebUI.click(findTestObject('EQ buy/td_InvClass_ContentPlaceHolder1_ASPxRoundPa_7d86cd'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_TRADING'))
+WebUI.click(findTestObject('EQ buy/td_TRADING'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_Broker_ContentPlaceHolder1_ASPxRoundPane_0797b0'))
+WebUI.click(findTestObject('EQ buy/td_Broker_ContentPlaceHolder1_ASPxRoundPane_0797b0'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_ABN AMRO'))
+WebUI.click(findTestObject('EQ buy/td_ABN AMRO'))
 
-WebUI.setText(findTestObject('Object Repository/Page_IMS/input_Instruction No_ctl00ContentPlaceHolde_d20025'), 'EQ4141')
+WebUI.setText(findTestObject('EQ buy/input_Instruction No_ctl00ContentPlaceHolde_d20025'), 'EQ4141')
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_'))
+WebUI.click(findTestObject('EQ buy/td_'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_25'))
+WebUI.click(findTestObject('EQ buy/td_25'))
 
-WebUI.setText(findTestObject('Object Repository/Page_IMS/input_Unit Price_ctl00ContentPlaceHolder1AS_f7c703'), '1231.54')
+WebUI.setText(findTestObject('EQ buy/input_Unit Price_ctl00ContentPlaceHolder1AS_f7c703'), '1231.54')
 
-WebUI.setText(findTestObject('Object Repository/Page_IMS/input_Quantity_ctl00ContentPlaceHolder1ASPx_e13826'), '50000')
+WebUI.setText(findTestObject('EQ buy/input_Quantity_ctl00ContentPlaceHolder1ASPx_e13826'), '50000')
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_No TaxPPnPPh23OldPrepaid Tax 29PAJAK TAK_d068ae'))
+WebUI.click(findTestObject('EQ buy/td_No TaxPPnPPh23OldPrepaid Tax 29PAJAK TAK_d068ae'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/table_Quantity_ContentPlaceHolder1_ASPxRoun_7daa27'))
+WebUI.click(findTestObject('EQ buy/table_Quantity_ContentPlaceHolder1_ASPxRoun_7daa27'))
 
-WebUI.setText(findTestObject('Object Repository/Page_IMS/input_Quantity_ctl00ContentPlaceHolder1ASPx_e13826'), '50000')
+WebUI.setText(findTestObject('EQ buy/input_Quantity_ctl00ContentPlaceHolder1ASPx_e13826'), '50000')
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_No TaxPPnPPh23OldPrepaid Tax 29PAJAK TAK_d068ae'))
+WebUI.click(findTestObject('EQ buy/td_No TaxPPnPPh23OldPrepaid Tax 29PAJAK TAK_d068ae'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/td_PPn'))
+WebUI.click(findTestObject('EQ buy/td_PPn'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/div_Save'))
+WebUI.click(findTestObject('EQ buy/div_Save'))
 
-WebUI.click(findTestObject('Object Repository/Page_IMS/input_Deal has been saved Deal No  EQ57_ctl_77c5e6'))
+WebUI.click(findTestObject('EQ buy/input_Deal has been saved Deal No  EQ57_ctl_77c5e6'))
 

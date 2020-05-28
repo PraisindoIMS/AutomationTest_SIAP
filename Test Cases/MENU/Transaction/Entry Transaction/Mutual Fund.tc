@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Equity IPO</name>
+   <name>Mutual Fund</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>0caa4647-13c2-475c-9822-734df60d0a8b</testCaseGuid>
+   <testCaseGuid>d46ca81d-9cbc-4973-ad49-ce8d5815cdd6</testCaseGuid>
 </TestCaseEntity>

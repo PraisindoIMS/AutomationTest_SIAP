@@ -56,9 +56,11 @@ WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Dividen
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Dividend/td_27'))
 
-WebUI.setText(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Dividend/input_Total Cost_ctl00ContentPlaceHolder1pn_d1eab6'), '2320.53')
+WebUI.setText(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Dividend/input_Total Cost_ctl00ContentPlaceHolder1pn_d1eab6'), 
+    '2320.53')
 
-WebUI.setText(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Dividend/textarea_Remarks_ctl00ContentPlaceHolder1pn_7a439a'), 'test dividend katalon')
+WebUI.setText(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Dividend/textarea_Remarks_ctl00ContentPlaceHolder1pn_7a439a'), 
+    'test dividend katalon')
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Dividend/div_Save'))
 

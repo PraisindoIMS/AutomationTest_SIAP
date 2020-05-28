@@ -28,7 +28,7 @@ WebUI.sendKeys(findTestObject('Page_Login Page/input_Password_Password'), Keys.c
 
 WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Subscription/span_SIAP'))
 
-WebUI.doubleClick(findTestObject('null'))
+WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Subscription/span_Transaction'))
 
 WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Subscription/span_Entry Transaction'))
 
@@ -56,11 +56,14 @@ WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Subscri
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Subscription/td_27'))
 
-WebUI.setText(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Subscription/input_NAVUnit_ctl00ContentPlaceHolder1pnlAl_fa4d3f'), '2124.75')
+WebUI.setText(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Subscription/input_NAVUnit_ctl00ContentPlaceHolder1pnlAl_fa4d3f'), 
+    '2124.75')
 
-WebUI.setText(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Subscription/input_Amount_ctl00ContentPlaceHolder1pnlAll_e83f15'), '25000000000')
+WebUI.setText(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Subscription/input_Amount_ctl00ContentPlaceHolder1pnlAll_e83f15'), 
+    '25000000000')
 
-WebUI.setText(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Subscription/input_Fee ()_ctl00ContentPlaceHolder1pnlAll_d0596a'), '5')
+WebUI.setText(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Subscription/input_Fee ()_ctl00ContentPlaceHolder1pnlAll_d0596a'), 
+    '5')
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Subscription/td_Fee (NetGross)_ContentPlaceHolder1_pnlAl_27f7fa'))
 
