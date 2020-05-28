@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>table_Settle Date_ContentPlaceHolder1_pnlAl_f0ea3a</name>
+   <name>td_TRADING</name>
    <tag></tag>
-   <elementGuidId>2fea6588-a967-41d9-be7c-7c2e2818d60c</elementGuidId>
+   <elementGuidId>d7dce145-49a1-4fc9-8207-4e86998ae750</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='ContentPlaceHolder1_pnlAll_dtSettleDate1']</value>
+         <value>//td[@id='ContentPlaceHolder1_ASPxRoundPanel1_cbx_TInvClass_DDD_L_LBI0T0']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,97 +17,97 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>table</value>
+      <value>td</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dxeButtonEdit_Glass</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>cellspacing</name>
-      <type>Main</type>
-      <value>1</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>cellpadding</name>
-      <type>Main</type>
-      <value>0</value>
+      <value>dxeListBoxItem_Glass dxeFTM dxeListBoxItemHover_Glass dxeListBoxItemSelected_Glass</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ContentPlaceHolder1_pnlAll_dtSettleDate1</value>
+      <value>ContentPlaceHolder1_ASPxRoundPanel1_cbx_TInvClass_DDD_L_LBI0T0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TRADING</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_pnlAll_dtSettleDate1&quot;)</value>
+      <value>id(&quot;ContentPlaceHolder1_ASPxRoundPanel1_cbx_TInvClass_DDD_L_LBI0T0&quot;)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/MF_Dividend Unit/iframe_This product is licensed to PT Prais_6ddf54</value>
+      <value>Object Repository/Transaction/Entry Transaction/Equity/Equity IPO/iframe_This product is licensed to PT Prais_a59df3</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//table[@id='ContentPlaceHolder1_pnlAll_dtSettleDate1']</value>
+      <value>//td[@id='ContentPlaceHolder1_ASPxRoundPanel1_cbx_TInvClass_DDD_L_LBI0T0']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='ContentPlaceHolder1_pnlAll']/table[2]/tbody/tr/td[5]/table</value>
+      <value>//table[@id='ContentPlaceHolder1_ASPxRoundPanel1_cbx_TInvClass_DDD_L_LBT']/tbody/tr/td</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settle Date'])[1]/following::table[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::td[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading…'])[5]/following::table[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inv Class Code'])[1]/following::td[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='May 2020'])[2]/preceding::table[3]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRADING'])[2]/preceding::td[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[2]/preceding::table[4]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AFS'])[1]/preceding::td[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TRADING']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[5]/table</value>
+      <value>//tr[3]/td[2]/table/tbody/tr/td/div/table/tbody/tr/td/table/tbody/tr/td/div/table/tbody/tr/td/div[2]/table[2]/tbody/tr/td</value>
    </webElementXpaths>
 </WebElementEntity>

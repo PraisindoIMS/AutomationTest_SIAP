@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>table_Settle Date_ContentPlaceHolder1_pnlAl_f0ea3a</name>
+   <name>span_Save</name>
    <tag></tag>
-   <elementGuidId>2fea6588-a967-41d9-be7c-7c2e2818d60c</elementGuidId>
+   <elementGuidId>78baabfd-3599-415e-ad7b-f2fa6856a268</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='ContentPlaceHolder1_pnlAll_dtSettleDate1']</value>
+         <value>//div[@id='ContentPlaceHolder1_ASPxRoundPanel1_btnSave_CD']/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,97 +17,69 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>table</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>dxeButtonEdit_Glass</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>cellspacing</name>
-      <type>Main</type>
-      <value>1</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>cellpadding</name>
-      <type>Main</type>
-      <value>0</value>
+      <value>span</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>text</name>
       <type>Main</type>
-      <value>ContentPlaceHolder1_pnlAll_dtSettleDate1</value>
+      <value>Save</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_pnlAll_dtSettleDate1&quot;)</value>
+      <value>id(&quot;ContentPlaceHolder1_ASPxRoundPanel1_btnSave_CD&quot;)/span[1]</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/MF_Dividend Unit/iframe_This product is licensed to PT Prais_6ddf54</value>
+      <value>Object Repository/Transaction/Entry Transaction/Equity/Equity IPO/iframe_This product is licensed to PT Prais_a59df3</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//table[@id='ContentPlaceHolder1_pnlAll_dtSettleDate1']</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='ContentPlaceHolder1_pnlAll']/table[2]/tbody/tr/td[5]/table</value>
+      <value>//div[@id='ContentPlaceHolder1_ASPxRoundPanel1_btnSave_CD']/span</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settle Date'])[1]/following::table[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading…'])[18]/following::span[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading…'])[5]/following::table[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remarks 2'])[2]/following::span[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='May 2020'])[2]/preceding::table[3]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'ContentPlaceHolder1_ASPxRoundPanel1_btnSave_CD', '&quot;', ')/span[1]')])[1]/preceding::span[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[2]/preceding::table[4]</value>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[5]/table</value>
+      <value>//div[2]/span</value>
    </webElementXpaths>
 </WebElementEntity>

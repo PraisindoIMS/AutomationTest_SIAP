@@ -48,6 +48,10 @@ WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Dividen
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Dividend/td_BCA'))
 
+WebUI.click(findTestObject('MF Red/button nav date'))
+
+WebUI.click(findTestObject('MF Red/td_26_nav date'))
+
 WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Dividend/td_Deal Date_ContentPlaceHolder1_pnlAll_cpD_84f070'))
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Dividend/td_25'))
