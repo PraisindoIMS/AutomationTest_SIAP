@@ -40,7 +40,7 @@ WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/td_P
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/td_DPJASINDO'))
 
-WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/img_Instrument_ContentPlaceHolder1_ASPxRoun_53dab2'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/Instrument'))
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/td_TESTEQ'))
 
@@ -59,8 +59,9 @@ WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/td_'
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/td_26'))
 
-WebUI.setText(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/input_Unit Price_ctl00ContentPlaceHolder1AS_f7c703'), 
-    '1200')
+WebUI.delay(2)
+
+WebUI.setText(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/unit_price2'), '1200.25')
 
 WebUI.setText(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/input_Quantity_ctl00ContentPlaceHolder1ASPx_e13826'), 
     '10000')
