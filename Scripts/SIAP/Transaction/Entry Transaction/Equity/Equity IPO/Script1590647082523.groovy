@@ -16,31 +16,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('http://111.67.78.152/Custody/SSO/LoginPages/3/Login.html')
-
-WebUI.setText(findTestObject('Page_Login Page/input_User ID_UserID'), 'laras1')
-
-WebUI.setEncryptedText(findTestObject('Page_Login Page/input_Password_Password'), '1eYZqUn0ugE=')
-
-WebUI.sendKeys(findTestObject('Page_Login Page/input_Password_Password'), Keys.chord(Keys.ENTER))
-
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/span_SIAP'))
-
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/span_Transaction'))
-
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/span_Entry Transaction'))
-
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/span_Equity'))
-
 WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/span_Equity IPO'))
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/td_Product_ContentPlaceHolder1_ASPxRoundPanel1_cmbPFolio_B-1'))
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/td_DPJASINDO'))
 
-WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/Instrument'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/Pilih Instrumen'))
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/td_TESTEQ'))
 
@@ -73,4 +55,8 @@ WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/td_P
 WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/span_Save'))
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/input_Deal has been saved Deal No  EQ73_ctl00UCMessageBox1btnOK'))
+
+WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/Button_OK'))
+
+WebUI.delay(2)
 

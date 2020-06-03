@@ -16,24 +16,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('http://111.67.78.152/Custody/SSO/LoginPages/3/Login.html')
-
-WebUI.setText(findTestObject('Page_Login Page/input_User ID_UserID'), 'laras1')
-
-WebUI.setEncryptedText(findTestObject('Page_Login Page/input_Password_Password'), '1eYZqUn0ugE=')
-
-WebUI.sendKeys(findTestObject('Page_Login Page/input_Password_Password'), Keys.chord(Keys.ENTER))
-
-WebUI.doubleClick(findTestObject('FI IPO/span_SIAP'))
-
-WebUI.doubleClick(findTestObject('FI IPO/span_Transaction'))
-
-WebUI.doubleClick(findTestObject('FI IPO/span_Entry Transaction'))
-
-WebUI.doubleClick(findTestObject('FI IPO/span_Fixed Income'))
-
 WebUI.click(findTestObject('FI IPO/span_Fixed Income IPO'))
 
 WebUI.click(findTestObject('FI IPO/img__ContentPlaceHolder1_PanelMain_cboPortfolio_B-1Img'))
@@ -74,7 +56,7 @@ WebUI.click(findTestObject('FI IPO/div_Save'))
 
 WebUI.click(findTestObject('FI IPO/input_Deal has been saved Deal No  FI76_ctl_c83333'))
 
-WebUI.click(findTestObject('FI IPO/button_Logout'))
+WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/FI Sell/button_Logout (1)'))
 
 WebUI.closeBrowser()
 

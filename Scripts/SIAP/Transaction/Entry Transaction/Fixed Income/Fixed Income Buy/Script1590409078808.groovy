@@ -16,25 +16,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('http://111.67.78.152/Custody/SSO/LoginPages/3/Login.html')
-
-WebUI.setText(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_Login Page/input_User ID_UserID'), 'andaru')
-
-WebUI.setEncryptedText(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_Login Page/input_Password_Password'), 
-    'tzH6RvlfSTg=')
-
-WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_Login Page/input_Password_btnLogin'))
-
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/span_SIAP'))
-
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/span_Transaction'))
-
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/span_Entry Transaction'))
-
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/span_Fixed Income'))
-
 WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/span_Fixed Income Buy'))
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/td__ContentPlaceHolder1_PanelMain_cboPortfolio_B-1'))
@@ -88,15 +69,9 @@ WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Inc
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/img_Cancel_dxgvCommandColumnItem_Glass dxgv__cci'))
 
-WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/img_dxgvCommandColumnItem_Glass dxgv_cci'))
-
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/input__ctl00ContentPlaceHolder1PanelMainPan_820913'))
-
-WebUI.setText(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/input__ctl00ContentPlaceHolder1PanelMainPan_820913'), 
-    '102')
-
 WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/div_Save'))
 
 WebUI.sendKeys(findTestObject(null), Keys.chord(Keys.ENTER))
 
 WebUI.closeBrowser()
+

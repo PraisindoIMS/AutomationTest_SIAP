@@ -16,24 +16,6 @@ import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('http://111.67.78.152/Custody/SSO/LoginPages/3/Login.html')
-
-WebUI.setText(findTestObject('Page_Login Page/input_User ID_UserID'), 'laras1')
-
-WebUI.setEncryptedText(findTestObject('Page_Login Page/input_Password_Password'), '1eYZqUn0ugE=')
-
-WebUI.sendKeys(findTestObject('Page_Login Page/input_Password_Password'), Keys.chord(Keys.ENTER))
-
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Dividend Unit/span_SIAP'))
-
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Dividend Unit/span_Transaction'))
-
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Dividend Unit/span_Entry Transaction'))
-
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Dividend Unit/span_Mutual Fund'))
-
 WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Dividend Unit/span_Dividend Unit'))
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF_Dividend Unit/td_Product_ContentPlaceHolder1_pnlAll_cmbPFolio_B-1'))

@@ -16,24 +16,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('http://111.67.78.152/Custody/SSO/LoginPages/3/Login.html')
-
-WebUI.setText(findTestObject('Page_Login Page/input_User ID_UserID'), 'laras1')
-
-WebUI.setEncryptedText(findTestObject('Page_Login Page/input_Password_Password'), '1eYZqUn0ugE=')
-
-WebUI.sendKeys(findTestObject('Page_Login Page/input_Password_Password'), Keys.chord(Keys.ENTER))
-
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF Red/span_SIAP'))
-
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF Red/span_Transaction'))
-
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF Red/span_Entry Transaction'))
-
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF Red/span_Mutual Fund'))
-
 WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF Red/span_Redemption'))
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Mutual Fund/MF Red/td_Product_ContentPlaceHolder1_pnlAll_cmbPFolio_B-1'))
