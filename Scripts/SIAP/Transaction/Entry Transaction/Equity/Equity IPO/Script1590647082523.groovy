@@ -58,5 +58,5 @@ WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/inpu
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity IPO/Button_OK'))
 
-WebUI.delay(2)
+WebUI.acceptAlert(FailureHandling.STOP_ON_FAILURE)
 

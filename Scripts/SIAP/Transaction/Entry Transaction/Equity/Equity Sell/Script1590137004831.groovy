@@ -55,7 +55,3 @@ WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/td_
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/div_Save'))
 
-WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/input_Deal has been saved Deal No  EQ47_ctl_7b93d3'))
-
-WebUI.click(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/Btn OK'))
-

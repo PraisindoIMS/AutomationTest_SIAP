@@ -45,7 +45,7 @@
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_IMS/iframe_This product is licensed to PT Prais_6a94db</value>
+      <value>Object Repository/EQ buy/iframe_This product is licensed to PT Prais_6a94db</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
