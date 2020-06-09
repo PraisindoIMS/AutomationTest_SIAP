@@ -50,5 +50,5 @@ WebUI.click(findTestObject('EQ buy/td_PPH23'))
 
 WebUI.click(findTestObject('EQ buy/div_Save'))
 
-WebUI.click(findTestObject('EQ buy/Button_OK'))
+WebUI.click(findTestObject('EQ buy/img_Upload Transaction_x-tree-ec-icon x-tree-elbow-plus'))
 

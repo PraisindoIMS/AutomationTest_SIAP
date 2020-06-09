@@ -52,7 +52,7 @@
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Transaction/Follow Up Transaction/Page_IMS/iframe_This product is licensed to PT Prais_198778</value>
+      <value>Object Repository/Transaction/Follow Up Transaction/Approval/iframe_This product is licensed to PT Prais_198778</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>

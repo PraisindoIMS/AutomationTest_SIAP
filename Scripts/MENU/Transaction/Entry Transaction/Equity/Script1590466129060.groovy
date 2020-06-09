@@ -15,11 +15,11 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/span_SIAP'))
+WebUI.click(findTestObject('MENU/SIAP/correction/img_SIAR_x-tree-ec-icon x-tree-elbow-plus'))
 
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/span_Transaction'))
+WebUI.click(findTestObject('MENU/SIAP/Equity/img_Announcement RUP_x-tree-ec-icon x-tree-elbow-plus'))
 
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/span_Entry Transaction'))
+WebUI.click(findTestObject('MENU/SIAP/Equity/img_Upload Transaction_x-tree-ec-icon x-tree-elbow-plus'))
 
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Equity/Equity Sell/span_Equity'))
+WebUI.click(findTestObject('MENU/SIAP/Equity/img_Entry Transaction_x-tree-ec-icon x-tree-elbow-plus'))
 

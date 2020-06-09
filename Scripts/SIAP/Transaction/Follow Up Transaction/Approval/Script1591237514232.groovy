@@ -16,13 +16,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.doubleClick(findTestObject('Transaction/Follow Up Transaction/Approval/span_SIAP'))
+WebUI.click(findTestObject('MENU/SIAP/correction/img_Money Market_x-tree-ec-icon x-tree-elbow-plus'))
 
-WebUI.doubleClick(findTestObject('Transaction/Follow Up Transaction/Approval/span_Transaction'))
-
-WebUI.doubleClick(findTestObject('Transaction/Follow Up Transaction/Approval/span_Follow Up Transaction'))
-
-WebUI.doubleClick(findTestObject('Transaction/Follow Up Transaction/Approval/span_Approval'))
+WebUI.click(findTestObject('Transaction/Follow Up Transaction/Approval/Span approval'))
 
 WebUI.click(findTestObject('Transaction/Follow Up Transaction/Approval/img_Category_ContentPlaceHolder1_cboCategory_B-1Img'))
 
@@ -43,12 +39,6 @@ WebUI.click(findTestObject('Transaction/Follow Up Transaction/Approval/img_Produ
 WebUI.click(findTestObject('Transaction/Follow Up Transaction/Approval/td_DPJASINDO'))
 
 WebUI.click(findTestObject('Transaction/Follow Up Transaction/Approval/span_Search'))
-
-WebUI.click(findTestObject('Transaction/Follow Up Transaction/Approval/a_View'))
-
-WebUI.click(findTestObject('Transaction/Follow Up Transaction/Approval/span_Approve'))
-
-WebUI.click(findTestObject('Transaction/Follow Up Transaction/Approval/input_Transaction has been approved_ctl00UC_134804'))
 
 WebUI.click(findTestObject('Transaction/Follow Up Transaction/Approval/span_View_ContentPlaceHolder1_gvApproval_DX_e748b2'))
 

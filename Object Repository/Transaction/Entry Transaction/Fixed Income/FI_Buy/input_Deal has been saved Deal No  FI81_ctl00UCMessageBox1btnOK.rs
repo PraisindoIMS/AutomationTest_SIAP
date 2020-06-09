@@ -66,7 +66,7 @@
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Transaction/Entry Transaction/Fixed Income/Page_IMS/iframe_This product is licensed to PT Prais_3cdc18_1</value>
+      <value>Object Repository/Transaction/Entry Transaction/Fixed Income/FI_Buy/iframe_This product is licensed to PT Prais_3cdc18</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>

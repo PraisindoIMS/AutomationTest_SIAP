@@ -29,9 +29,9 @@
       <testCaseId>Test Cases/SIAP/Transaction/Entry Transaction/Equity/Equity Sell</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>1c4f0f1e-b01d-445c-9651-998b918be70e</guid>
+      <guid>3c592a8a-a683-4e4b-bfa2-ae6c67776e1a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MENU/Transaction/follow up transaction/Correction</testCaseId>
+      <testCaseId>Test Cases/SIAP/Transaction/Follow Up Transaction/Correction</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

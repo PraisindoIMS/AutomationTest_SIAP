@@ -37,6 +37,8 @@ WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Inc
 WebUI.setText(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/input__ctl00ContentPlaceHolder1PanelMaintxt_bae2ee'), 
     '1021')
 
+WebUI.clearText(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/input_Deal Price_ctl00ContentPlaceHolder1Pa_51bab2'))
+
 WebUI.setText(findTestObject('Transaction/Entry Transaction/Fixed Income/Fixed Income Buy/Page_IMS/input_Deal Price_ctl00ContentPlaceHolder1Pa_51bab2'), 
     '101')
 

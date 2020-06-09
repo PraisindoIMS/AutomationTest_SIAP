@@ -23,7 +23,7 @@
       <testCaseId>Test Cases/MENU/Transaction/Entry Transaction/Fixed Income</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>a16e1c17-6a16-480b-af10-89689431e83d</guid>
+      <guid>9e08087f-f720-4311-9770-dc9dbf706333</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/SIAP/Transaction/Entry Transaction/Fixed Income/Fixed Income Buy</testCaseId>
