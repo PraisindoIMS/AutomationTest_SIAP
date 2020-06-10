@@ -16,12 +16,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.doubleClick(findTestObject('Transaction/Follow Up Transaction/Settlement/span_SIAP'))
-
-WebUI.doubleClick(findTestObject('Transaction/Follow Up Transaction/Settlement/span_Transaction'))
-
-WebUI.doubleClick(findTestObject('Transaction/Follow Up Transaction/Settlement/div_Follow Up Transaction'))
-
 WebUI.click(findTestObject('Transaction/Follow Up Transaction/Settlement/span_Settlement'))
 
 WebUI.click(findTestObject('Transaction/Follow Up Transaction/Settlement/img_Category_ContentPlaceHolder1_cboCategory_B-1Img'))

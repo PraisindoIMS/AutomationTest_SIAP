@@ -42,7 +42,3 @@ WebUI.click(findTestObject('Transaction/Follow Up Transaction/Approval/span_View
 
 WebUI.click(findTestObject('Transaction/Follow Up Transaction/Approval/span_Approve Selected'))
 
-WebUI.click(findTestObject('Transaction/Follow Up Transaction/Approval/button_Logout'))
-
-WebUI.closeBrowser()
-

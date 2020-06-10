@@ -40,4 +40,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/SIAP/Transaction/Follow Up Transaction/Approval</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>f69fb881-df9b-4abd-a10a-d55345abf7dc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SIAP/Transaction/Follow Up Transaction/Settlement</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
