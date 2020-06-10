@@ -52,5 +52,3 @@ WebUI.click(findTestObject('Transaction/Follow Up Transaction/Correction Both/td
 
 WebUI.click(findTestObject('Transaction/Follow Up Transaction/Correction Both/span_Save'))
 
-WebUI.click(findTestObject('EQ buy/img_Upload Transaction_x-tree-ec-icon x-tree-elbow-plus'))
-

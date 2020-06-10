@@ -16,8 +16,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('MENU/SIAP/correction/img_Money Market_x-tree-ec-icon x-tree-elbow-plus'))
-
 WebUI.click(findTestObject('Transaction/Follow Up Transaction/Approval/Span approval'))
 
 WebUI.click(findTestObject('Transaction/Follow Up Transaction/Approval/img_Category_ContentPlaceHolder1_cboCategory_B-1Img'))

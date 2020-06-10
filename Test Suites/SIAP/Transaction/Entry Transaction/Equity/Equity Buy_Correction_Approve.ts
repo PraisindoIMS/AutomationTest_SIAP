@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Equity Buy_Approve</name>
+   <name>Equity Buy_Correction_Approve</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -27,6 +27,12 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/SIAP/Transaction/Entry Transaction/Equity/Equity Buy</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6a62aa12-33ef-4f51-80c2-1a025c3b284e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SIAP/Transaction/Follow Up Transaction/Correction Both</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>def16a1d-0052-4902-8696-6f04e9458138</guid>

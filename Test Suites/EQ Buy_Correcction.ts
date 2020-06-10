@@ -13,7 +13,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/SIAP/Transaction/Entry Transaction/Equity/Equity Buy_Approve</testSuiteEntity>
+         <testSuiteEntity>Test Suites/SIAP/Transaction/Entry Transaction/Equity/Equity Buy_Correction_Approve</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
