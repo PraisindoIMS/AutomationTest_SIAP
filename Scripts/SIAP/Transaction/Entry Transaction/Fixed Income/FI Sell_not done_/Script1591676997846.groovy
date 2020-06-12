@@ -59,10 +59,11 @@ WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/FI Sell/t
 WebUI.setText(findTestObject('Transaction/Entry Transaction/Fixed Income/FI Sell/input__ctl00ContentPlaceHolder1PanelMaintxt_bae2ee'), 
     'FI SELLL')
 
-WebUI.doubleClick(findTestObject('Transaction/Entry Transaction/Fixed Income/FI Sell/input_Face Value_ctl00ContentPlaceHolder1PanelMainPanelDetailcbFaceValuetxtFaceValue'))
+WebUI.focus(findTestObject('Transaction/Entry Transaction/Fixed Income/FI Sell/input_Face Value_ctl00ContentPlaceHolder1Pa_00da12'))
 
-WebUI.setText(findTestObject('Transaction/Entry Transaction/Fixed Income/FI Sell/input_Face Value_ctl00ContentPlaceHolder1PanelMainPanelDetailcbFaceValuetxtFaceValue'), 
-    '100000000')
+WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/FI Sell/input_Deal Price_ctl00ContentPlaceHolder1Pa_51bab2'))
+
+WebUI.clearText(findTestObject('Transaction/Entry Transaction/Fixed Income/FI Sell/input_Deal Price_ctl00ContentPlaceHolder1Pa_51bab2'))
 
 WebUI.setText(findTestObject('Transaction/Entry Transaction/Fixed Income/FI Sell/input_Deal Price_ctl00ContentPlaceHolder1Pa_51bab2'), 
     '100.7')
@@ -76,8 +77,6 @@ WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/FI Sell/i
 WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/FI Sell/td_15'))
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/FI Sell/span_Save'))
-
-WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/FI Sell/input_Deal has been saved Deal No  FI95_ctl_4f15ac'))
 
 WebUI.click(findTestObject('Transaction/Entry Transaction/Fixed Income/FI Sell/button_Logout'))
 

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Deal has been saved Deal No  FI95_ctl_4f15ac</name>
+   <name>img_Product_ContentPlaceHolder1_RoundPanelMain_RoundPanelGeneral_cboPortfolio_B-1Img</name>
    <tag></tag>
-   <elementGuidId>6135ae97-03ac-4b03-b2ed-3894db521f7d</elementGuidId>
+   <elementGuidId>724ece25-403a-451d-8700-b70168260102</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;UCMessageBox1_btnOK&quot;]</value>
+         <value>//img[@id='ContentPlaceHolder1_RoundPanelMain_RoundPanelGeneral_cboPortfolio_B-1Img']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,76 +17,76 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>ctl00$UCMessageBox1$btnOK</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>OK</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>window.location='/Custody/SIAP/Pages/SIAP/Transaction/FixedIncome.aspx?ssoid=wjmq1p2kw32357827y9j7wwg4tga_hu4wt0qmqffbd_wi&amp;DealType=Sell&amp;MenuId=209';</value>
+      <value>img</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>UCMessageBox1_btnOK</value>
+      <value>ContentPlaceHolder1_RoundPanelMain_RoundPanelGeneral_cboPortfolio_B-1Img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dxEditors_edtDropDown_Glass</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/Custody/SIAP/DXR.axd?r=1_5-ge_xh</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>v</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;UCMessageBox1_btnOK&quot;)</value>
+      <value>id(&quot;ContentPlaceHolder1_RoundPanelMain_RoundPanelGeneral_cboPortfolio_B-1Img&quot;)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Transaction/Entry Transaction/Fixed Income/FI Sell/iframe_This product is licensed to PT Prais_023adf</value>
+      <value>Object Repository/Page_IMS/iframe_This product is licensed to PT Prais_08b3a3</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='UCMessageBox1_btnOK']</value>
+      <value>//img[@id='ContentPlaceHolder1_RoundPanelMain_RoundPanelGeneral_cboPortfolio_B-1Img']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='UCMessageBox1_pnlMsg']/div[3]/input</value>
+      <value>//td[@id='ContentPlaceHolder1_RoundPanelMain_RoundPanelGeneral_cboPortfolio_B-1']/table/tbody/tr/td/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='v']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/input</value>
+      <value>//td[3]/table/tbody/tr/td/img</value>
    </webElementXpaths>
 </WebElementEntity>

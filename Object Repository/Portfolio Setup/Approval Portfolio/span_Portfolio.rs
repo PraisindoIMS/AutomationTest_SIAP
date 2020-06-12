@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Deal has been saved Deal No  FI95_ctl_4f15ac</name>
+   <name>span_Portfolio</name>
    <tag></tag>
-   <elementGuidId>6135ae97-03ac-4b03-b2ed-3894db521f7d</elementGuidId>
+   <elementGuidId>f61c5257-b0d6-453b-b10f-9b843dc7ff42</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;UCMessageBox1_btnOK&quot;]</value>
+         <value>/html/body/form/div[2]/div/div[2]/div/div[2]/div[2]/ul/li/ul/li[2]/ul/li[6]/ul/li[2]/ul/li/div/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,76 +17,69 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>ctl00$UCMessageBox1$btnOK</value>
+      <value>span</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>unselectable</name>
       <type>Main</type>
-      <value>OK</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>window.location='/Custody/SIAP/Pages/SIAP/Transaction/FixedIncome.aspx?ssoid=wjmq1p2kw32357827y9j7wwg4tga_hu4wt0qmqffbd_wi&amp;DealType=Sell&amp;MenuId=209';</value>
+      <value>on</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>text</name>
       <type>Main</type>
-      <value>UCMessageBox1_btnOK</value>
+      <value>Portfolio</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;UCMessageBox1_btnOK&quot;)</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Transaction/Entry Transaction/Fixed Income/FI Sell/iframe_This product is licensed to PT Prais_023adf</value>
+      <value>id(&quot;ext-gen85&quot;)/li[@class=&quot;x-tree-node&quot;]/div[@class=&quot;x-tree-node-el x-tree-node-leaf x-unselectable  x-tree-node-over&quot;]/a[@class=&quot;x-tree-node-anchor&quot;]/span[1]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//input[@id='UCMessageBox1_btnOK']</value>
+      <value>//ul[@id='ext-gen85']/li/div/a/span</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//div[@id='UCMessageBox1_pnlMsg']/div[3]/input</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Portfolio Approval'])[1]/following::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Portfolio'])[1]/following::span[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Announcement RUP'])[1]/preceding::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction'])[1]/preceding::span[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/input</value>
+      <value>//li[6]/ul/li[2]/ul/li/div/a/span</value>
    </webElementXpaths>
 </WebElementEntity>

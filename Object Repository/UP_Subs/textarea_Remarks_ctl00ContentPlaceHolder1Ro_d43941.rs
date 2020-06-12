@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Deal has been saved Deal No  FI95_ctl_4f15ac</name>
+   <name>textarea_Remarks_ctl00ContentPlaceHolder1Ro_d43941</name>
    <tag></tag>
-   <elementGuidId>6135ae97-03ac-4b03-b2ed-3894db521f7d</elementGuidId>
+   <elementGuidId>e8277b9b-58ff-4512-9bcf-724d7a3a4fe7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;UCMessageBox1_btnOK&quot;]</value>
+         <value>//textarea[@id='ContentPlaceHolder1_RoundPanelMain_RoundPanelDetail_txtRemarks_I']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,76 +17,83 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>ctl00$UCMessageBox1$btnOK</value>
+      <value>textarea</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>class</name>
       <type>Main</type>
-      <value>OK</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>window.location='/Custody/SIAP/Pages/SIAP/Transaction/FixedIncome.aspx?ssoid=wjmq1p2kw32357827y9j7wwg4tga_hu4wt0qmqffbd_wi&amp;DealType=Sell&amp;MenuId=209';</value>
+      <value>dxeMemoEditArea_Glass dxeMemoEditAreaSys dxh0</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>UCMessageBox1_btnOK</value>
+      <value>ContentPlaceHolder1_RoundPanelMain_RoundPanelDetail_txtRemarks_I</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ContentPlaceHolder1$RoundPanelMain$RoundPanelDetail$txtRemarks</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onfocus</name>
+      <type>Main</type>
+      <value>aspxEGotFocus('ContentPlaceHolder1_RoundPanelMain_RoundPanelDetail_txtRemarks')</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onblur</name>
+      <type>Main</type>
+      <value>aspxELostFocus('ContentPlaceHolder1_RoundPanelMain_RoundPanelDetail_txtRemarks')</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeydown</name>
+      <type>Main</type>
+      <value>aspxEKeyDown('ContentPlaceHolder1_RoundPanelMain_RoundPanelDetail_txtRemarks', event)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;UCMessageBox1_btnOK&quot;)</value>
+      <value>id(&quot;ContentPlaceHolder1_RoundPanelMain_RoundPanelDetail_txtRemarks_I&quot;)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Transaction/Entry Transaction/Fixed Income/FI Sell/iframe_This product is licensed to PT Prais_023adf</value>
+      <value>Object Repository/Page_IMS/iframe_This product is licensed to PT Prais_08b3a3</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='UCMessageBox1_btnOK']</value>
+      <value>//textarea[@id='ContentPlaceHolder1_RoundPanelMain_RoundPanelDetail_txtRemarks_I']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='UCMessageBox1_pnlMsg']/div[3]/input</value>
+      <value>//table[@id='ContentPlaceHolder1_RoundPanelMain_RoundPanelDetail_txtRemarks']/tbody/tr/td/textarea</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/input</value>
+      <value>//textarea</value>
    </webElementXpaths>
 </WebElementEntity>

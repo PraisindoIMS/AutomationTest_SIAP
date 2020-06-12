@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Deal has been saved Deal No  FI95_ctl_4f15ac</name>
+   <name>input_Are you sure want to approve_ctl00UCM_72eb17</name>
    <tag></tag>
-   <elementGuidId>6135ae97-03ac-4b03-b2ed-3894db521f7d</elementGuidId>
+   <elementGuidId>dac771e2-b654-432c-b4de-71a1b464a017</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;UCMessageBox1_btnOK&quot;]</value>
+         <value>//input[@id='UCMessageBox1_btnPostOK']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -31,49 +31,49 @@
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>ctl00$UCMessageBox1$btnOK</value>
+      <value>ctl00$UCMessageBox1$btnPostOK</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>OK</value>
+      <value>Yes</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>window.location='/Custody/SIAP/Pages/SIAP/Transaction/FixedIncome.aspx?ssoid=wjmq1p2kw32357827y9j7wwg4tga_hu4wt0qmqffbd_wi&amp;DealType=Sell&amp;MenuId=209';</value>
+      <value>if (typeof(Page_ClientValidate) == 'function') { if (Page_ClientValidate() == false) { return false; }} this.value = 'Please wait...';this.disabled = true;__doPostBack('ctl00$UCMessageBox1$btnPostOK','');</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>UCMessageBox1_btnOK</value>
+      <value>UCMessageBox1_btnPostOK</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;UCMessageBox1_btnOK&quot;)</value>
+      <value>id(&quot;UCMessageBox1_btnPostOK&quot;)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Transaction/Entry Transaction/Fixed Income/FI Sell/iframe_This product is licensed to PT Prais_023adf</value>
+      <value>Object Repository/Portfolio Setup/Page_IMS/iframe_This product is licensed to PT Prais_b1cad9</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='UCMessageBox1_btnOK']</value>
+      <value>//input[@id='UCMessageBox1_btnPostOK']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

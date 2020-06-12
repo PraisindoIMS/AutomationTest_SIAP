@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Deal has been saved Deal No  FI95_ctl_4f15ac</name>
+   <name>input_Deal has been saved Deal No  UP55_ctl_774ecc</name>
    <tag></tag>
-   <elementGuidId>6135ae97-03ac-4b03-b2ed-3894db521f7d</elementGuidId>
+   <elementGuidId>fb41a9ce-d8a5-4d34-b324-6e4db4a44ba7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;UCMessageBox1_btnOK&quot;]</value>
+         <value>//input[@id='UCMessageBox1_btnOK']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -45,7 +45,7 @@
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>window.location='/Custody/SIAP/Pages/SIAP/Transaction/FixedIncome.aspx?ssoid=wjmq1p2kw32357827y9j7wwg4tga_hu4wt0qmqffbd_wi&amp;DealType=Sell&amp;MenuId=209';</value>
+      <value>window.location='http://111.67.78.152:80/Custody/SIAP/Pages/SIAP/Transaction/UnitPricing.aspx?ssoid=9EI_D2DMYFD2GH682_9RXK11GJT75FBXCEXXOWF7A272Q&amp;Action=Create&amp;DealType=SUBSCRIBE';</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Transaction/Entry Transaction/Fixed Income/FI Sell/iframe_This product is licensed to PT Prais_023adf</value>
+      <value>Object Repository/Page_IMS/iframe_This product is licensed to PT Prais_08b3a3</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>

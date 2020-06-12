@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Face Value_ctl00ContentPlaceHolder1PanelMainPanelDetailcbFaceValuetxtFaceValue</name>
+   <name>input_Total Amount_ctl00ContentPlaceHolder1RoundPanelMainRoundPanelDetailcbDetailtxtTotalCost</name>
    <tag></tag>
-   <elementGuidId>a98da5e9-4be4-4042-bef1-53591596f367</elementGuidId>
+   <elementGuidId>7926864c-82d2-4a86-9015-fecde25467b0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/form/div[4]/div/table/tbody/tr/td/table/tbody/tr[2]/td[2]/table[2]/tbody/tr[2]/td/table/tbody/tr/td/table/tbody/tr[2]/td[2]/table/tbody/tr[1]/td[2]/div[1]/table/tbody/tr/td/input</value>
+         <value>//input[@id='ContentPlaceHolder1_RoundPanelMain_RoundPanelDetail_cbDetail_txtTotalCost_I']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,13 +22,6 @@
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>10</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>dxeEditArea_Glass dxeEditAreaSys dxh0</value>
@@ -38,42 +31,49 @@
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>ctl00$ContentPlaceHolder1$PanelMain$PanelDetail$cbFaceValue$txtFaceValue</value>
+      <value>ctl00$ContentPlaceHolder1$RoundPanelMain$RoundPanelDetail$cbDetail$txtTotalCost</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onkeyup</name>
       <type>Main</type>
-      <value>aspxEKeyUp('ContentPlaceHolder1_PanelMain_PanelDetail_cbFaceValue_txtFaceValue', event)</value>
+      <value>aspxEKeyUp('ContentPlaceHolder1_RoundPanelMain_RoundPanelDetail_cbDetail_txtTotalCost', event)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>0.00</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ContentPlaceHolder1_PanelMain_PanelDetail_cbFaceValue_txtFaceValue_I</value>
+      <value>ContentPlaceHolder1_RoundPanelMain_RoundPanelDetail_cbDetail_txtTotalCost_I</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onchange</name>
       <type>Main</type>
-      <value>aspxEValueChanged('ContentPlaceHolder1_PanelMain_PanelDetail_cbFaceValue_txtFaceValue')</value>
+      <value>aspxEValueChanged('ContentPlaceHolder1_RoundPanelMain_RoundPanelDetail_cbDetail_txtTotalCost')</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onblur</name>
       <type>Main</type>
-      <value>aspxELostFocus('ContentPlaceHolder1_PanelMain_PanelDetail_cbFaceValue_txtFaceValue')</value>
+      <value>aspxELostFocus('ContentPlaceHolder1_RoundPanelMain_RoundPanelDetail_cbDetail_txtTotalCost')</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onfocus</name>
       <type>Main</type>
-      <value>aspxEGotFocus('ContentPlaceHolder1_PanelMain_PanelDetail_cbFaceValue_txtFaceValue')</value>
+      <value>aspxEGotFocus('ContentPlaceHolder1_RoundPanelMain_RoundPanelDetail_cbDetail_txtTotalCost')</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,41 +87,41 @@
       <matchCondition>equals</matchCondition>
       <name>onkeydown</name>
       <type>Main</type>
-      <value>aspxEKeyDown('ContentPlaceHolder1_PanelMain_PanelDetail_cbFaceValue_txtFaceValue', event)</value>
+      <value>aspxEKeyDown('ContentPlaceHolder1_RoundPanelMain_RoundPanelDetail_cbDetail_txtTotalCost', event)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_PanelMain_PanelDetail_cbFaceValue_txtFaceValue_I&quot;)</value>
+      <value>id(&quot;ContentPlaceHolder1_RoundPanelMain_RoundPanelDetail_cbDetail_txtTotalCost_I&quot;)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Transaction/Entry Transaction/Fixed Income/FI Sell/iframe_This product is licensed to PT Prais_023adf</value>
+      <value>Object Repository/Page_IMS/total amount/iframe_This product is licensed to PT Praisindo Teknologi valid until 30-09-2020_212_IFrame</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='ContentPlaceHolder1_PanelMain_PanelDetail_cbFaceValue_txtFaceValue_I']</value>
+      <value>//input[@id='ContentPlaceHolder1_RoundPanelMain_RoundPanelDetail_cbDetail_txtTotalCost_I']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='ContentPlaceHolder1_PanelMain_PanelDetail_cbFaceValue_txtFaceValue']/tbody/tr/td/input</value>
+      <value>//table[@id='ContentPlaceHolder1_RoundPanelMain_RoundPanelDetail_cbDetail_txtTotalCost']/tbody/tr/td/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[2]/div/table/tbody/tr/td/input</value>
+      <value>//tr[5]/td[2]/table/tbody/tr/td/input</value>
    </webElementXpaths>
 </WebElementEntity>
