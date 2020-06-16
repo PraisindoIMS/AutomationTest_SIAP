@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//td[@id='ContentPlaceHolder1_gridPFolio_dxdt0_ASPxPageControlPFolio_0_gridFee_0_DXEditor3_DDD_L_LBI1T0']</value>
+         <value>//*[@id=&quot;ContentPlaceHolder1_gridPFolio_dxdt0_ASPxPageControlPFolio_0_gridFee_0_DXEditor3_DDD_L_LBI1T0&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

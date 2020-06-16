@@ -45,7 +45,7 @@
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Portfolio Setup/Page_IMS/iframe_This product is licensed to PT Prais_b1cad9</value>
+      <value>Object Repository/Portfolio Setup/Approval Portfolio/iframe_This product is licensed to PT Prais_b1cad9</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>

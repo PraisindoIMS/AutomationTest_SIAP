@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Portfolio Detail_not done</name>
+   <name>Approve-Reject</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>8422be39-727c-4b55-b1c5-ccafb50a9189</testCaseGuid>
+   <testCaseGuid>f8820f18-7b9a-4123-9e94-3a9d0c0a8cc7</testCaseGuid>
 </TestCaseEntity>

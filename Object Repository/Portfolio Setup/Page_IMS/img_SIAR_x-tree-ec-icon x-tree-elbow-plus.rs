@@ -3,7 +3,7 @@
    <description></description>
    <name>img_SIAR_x-tree-ec-icon x-tree-elbow-plus</name>
    <tag></tag>
-   <elementGuidId>f9400cde-1fd1-45f9-bd6a-6847d87212c6</elementGuidId>
+   <elementGuidId>f8fe8e14-0465-4cb3-8dbb-d6cd3c560e71</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

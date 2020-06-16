@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Logout</name>
    <tag></tag>
-   <elementGuidId>d2a1e5c5-9451-41c0-88c9-eac6dd74eb39</elementGuidId>
+   <elementGuidId>5728fb7e-06ea-4426-a4ec-e587f5c1659b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

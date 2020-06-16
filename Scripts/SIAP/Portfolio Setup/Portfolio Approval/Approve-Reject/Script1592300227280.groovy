@@ -14,7 +14,6 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
-import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Portfolio Setup/Approval Portfolio/img_Portfolio_x-tree-ec-icon x-tree-elbow-end-plus'))
 
@@ -22,7 +21,7 @@ WebUI.click(findTestObject('Portfolio Setup/Approval Portfolio/span_Portfolio'))
 
 WebUI.click(findTestObject('Portfolio Setup/Approval Portfolio/span_Pending Type_ContentPlaceHolder1_gridPending_DXSelBtn0_D'))
 
-WebUI.click(findTestObject('Portfolio Setup/Approval Portfolio/span_Approve Selected'))
+WebUI.click(findTestObject('Portfolio Setup/Approval Portfolio/Button reject'))
 
 WebUI.click(findTestObject('Portfolio Setup/Approval Portfolio/input_Are you sure want to approve_ctl00UCM_72eb17'))
 

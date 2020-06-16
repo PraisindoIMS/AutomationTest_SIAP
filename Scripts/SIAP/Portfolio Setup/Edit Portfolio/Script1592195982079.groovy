@@ -16,19 +16,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Portfolio Setup/Approval Portfolio/img_Portfolio_x-tree-ec-icon x-tree-elbow-end-plus'))
+WebUI.click(findTestObject('Portfolio Setup/Edit Portfolio/img_SIAR_x-tree-ec-icon x-tree-elbow-plus'))
 
-WebUI.click(findTestObject('Portfolio Setup/Approval Portfolio/span_Portfolio'))
+WebUI.click(findTestObject('Portfolio Setup/Create Portfolio/img_Generator Email_x-tree-ec-icon x-tree-elbow-plus'))
 
-WebUI.click(findTestObject('Portfolio Setup/Approval Portfolio/span_Pending Type_ContentPlaceHolder1_gridPending_DXSelBtn0_D'))
+WebUI.click(findTestObject('Portfolio Setup/Edit Portfolio/span_Portfolio'))
 
-WebUI.click(findTestObject('Portfolio Setup/Approval Portfolio/span_Approve Selected'))
+WebUI.click(findTestObject('Portfolio Setup/Edit Portfolio/img_Loading_dxgvCommandColumnItem_Glass dxgv__cci (1)'))
 
-WebUI.click(findTestObject('Portfolio Setup/Approval Portfolio/input_Are you sure want to approve_ctl00UCM_72eb17'))
+WebUI.click(findTestObject('Portfolio Setup/Edit Portfolio/img_Custody_ContentPlaceHolder1_cmbCounterP_826abe (1)'))
 
-WebUI.click(findTestObject('Portfolio Setup/Approval Portfolio/input_Approve success_ctl00UCMessageBox1btnOK'))
+WebUI.click(findTestObject('Portfolio Setup/Edit Portfolio/td_INTERNMJ'))
 
-WebUI.click(findTestObject('Portfolio Setup/Approval Portfolio/button_Logout'))
+WebUI.click(findTestObject('Portfolio Setup/Edit Portfolio/img_Tax Rate_ContentPlaceHolder1_cmbTax_B-1Img'))
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Portfolio Setup/Edit Portfolio/td_15'))
+
+WebUI.click(findTestObject('Portfolio Setup/Edit Portfolio/span_Contractual Unit_ContentPlaceHolder1_c_622072 (1)'))
+
+WebUI.click(findTestObject('Portfolio Setup/Edit Portfolio/span_Update'))
+
+WebUI.click(findTestObject('Portfolio Setup/Edit Portfolio/input_Are you sure want to save_ctl00UCMess_122409'))
 
