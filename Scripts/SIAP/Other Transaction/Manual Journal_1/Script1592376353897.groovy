@@ -20,39 +20,38 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://111.67.78.152/Custody/SSO/LoginPages/3/Login.html')
 
-WebUI.setText(findTestObject('Page_Login Page/input_User ID_UserID'), 'laras1')
+WebUI.setText(findTestObject('Page_Login Page/input_User ID_UserID'), 'andaru')
 
-WebUI.setEncryptedText(findTestObject('Page_Login Page/input_Password_Password'), '1eYZqUn0ugE=')
+WebUI.setEncryptedText(findTestObject('Page_Login Page/input_Password_Password'), 'tzH6RvlfSTg=')
 
 WebUI.sendKeys(findTestObject('Page_Login Page/input_Password_Password'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Other Transaction/OverBooking/img_SIAR_x-tree-ec-icon x-tree-elbow-plus'))
+WebUI.click(findTestObject('Other Transaction/Manual Journal_1/img_SIAR_x-tree-ec-icon x-tree-elbow-plus'))
 
 WebUI.click(findTestObject('Other Transaction/OverBooking/Span other transaction'))
 
-WebUI.click(findTestObject('Other Transaction/OverBooking/span_Over Booking'))
+WebUI.click(findTestObject('Other Transaction/Manual Journal_1/span_Manual Journal'))
 
-WebUI.click(findTestObject('Other Transaction/OverBooking/div_New'))
+WebUI.click(findTestObject('Other Transaction/Manual Journal_1/img'))
 
-WebUI.click(findTestObject('Other Transaction/OverBooking/img_Product_ContentPlaceHolder1_pnlInput_cm_9e0528'))
+WebUI.click(findTestObject('Other Transaction/Manual Journal_1/img_Product_ContentPlaceHolder1_gridDeal_DX_cb8080'))
 
-WebUI.click(findTestObject('Other Transaction/OverBooking/td_BBMNFD'))
+WebUI.click(findTestObject('Other Transaction/Manual Journal_1/td_BBMNFD'))
 
-WebUI.click(findTestObject('Other Transaction/OverBooking/img_Bank Account_ContentPlaceHolder1_pnlInp_ab7561'))
+WebUI.click(findTestObject('Other Transaction/Manual Journal_1/img_Date_ContentPlaceHolder1_gridDeal_DXEdi_6b839f'))
 
-WebUI.click(findTestObject('Other Transaction/OverBooking/td_1024362015'))
+WebUI.click(findTestObject('Other Transaction/Manual Journal_1/td_16'))
 
-WebUI.click(findTestObject('Other Transaction/OverBooking/img'))
+WebUI.setText(findTestObject('Other Transaction/Manual Journal_1/textarea_Remarks_ctl00ContentPlaceHolder1gr_b12b7b'), 
+    'Test Manual Jurnal')
 
-WebUI.click(findTestObject('Other Transaction/OverBooking/td_PFolio_ContentPlaceHolder1_pnlInput_gdvG_6efb9c'))
+WebUI.click(findTestObject('Other Transaction/Manual Journal_1/td_Instrument Remark_dx'))
 
-WebUI.click(findTestObject('Other Transaction/OverBooking/td_BUMNFD'))
+WebUI.click(findTestObject('Other Transaction/Manual Journal_1/td_ABBA'))
 
-WebUI.setText(findTestObject('Other Transaction/OverBooking/input_Transfer Amount_ctl00ContentPlaceHold_53c6c7'), '1000000')
+WebUI.click(findTestObject('Other Transaction/Manual Journal_1/img_1'))
 
-WebUI.click(findTestObject('Other Transaction/OverBooking/img_1'))
+WebUI.click(findTestObject('Other Transaction/Manual Journal_1/button_Logout'))
 
-WebUI.click(findTestObject('Other Transaction/OverBooking/div_Save'))
-
-WebUI.acceptAlert()
+WebUI.closeBrowser()
 

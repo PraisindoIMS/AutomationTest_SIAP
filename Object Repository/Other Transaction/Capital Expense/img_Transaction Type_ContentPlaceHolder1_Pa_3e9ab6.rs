@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_BUMNFD</name>
+   <name>img_Transaction Type_ContentPlaceHolder1_Pa_3e9ab6</name>
    <tag></tag>
-   <elementGuidId>b7c17cf5-21c6-4c5a-b12c-2f22da8529be</elementGuidId>
+   <elementGuidId>fc67958a-1873-4121-83f2-4b0a1ec3c36c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//td[@id='ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor2_DDD_L_LBI1T0']</value>
+         <value>//img[@id='ContentPlaceHolder1_PageControl_trx_cmbJournalScenario_B-1Img']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,90 +17,76 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>td</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>dxeListBoxItem_Glass dxeFTM dxeListBoxItemHover_Glass dxeListBoxItemSelected_Glass</value>
+      <value>img</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor2_DDD_L_LBI1T0</value>
+      <value>ContentPlaceHolder1_PageControl_trx_cmbJournalScenario_B-1Img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dxEditors_edtDropDown_Glass</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>src</name>
       <type>Main</type>
-      <value>BUMNFD</value>
+      <value>/Custody/SIAP/DXR.axd?r=1_5-ge_xh</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>v</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor2_DDD_L_LBI1T0&quot;)</value>
+      <value>id(&quot;ContentPlaceHolder1_PageControl_trx_cmbJournalScenario_B-1Img&quot;)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Other Transaction/Page_IMS/iframe_This product is licensed to PT Prais_52a220</value>
+      <value>Object Repository/Other Transaction/Page_IMS/iframe_This product is licensed to PT Prais_bdd2e7</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//td[@id='ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor2_DDD_L_LBI1T0']</value>
+      <value>//img[@id='ContentPlaceHolder1_PageControl_trx_cmbJournalScenario_B-1Img']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor2_DDD_L_LBT']/tbody/tr[2]/td</value>
+      <value>//td[@id='ContentPlaceHolder1_PageControl_trx_cmbJournalScenario_B-1']/table/tbody/tr/td/img</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:img</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='RDSPT BAHANA SYARIAH BUMN FUND IV'])[2]/following::td[1]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='BBMNFD'])[2]/following::td[2]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='RDPT BAHANA BUMN FUND III'])[2]/preceding::td[1]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOMD17'])[2]/preceding::td[2]</value>
+      <value>(//img[@alt='v'])[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td/div/table/tbody/tr/td/table/tbody/tr/td/div/table/tbody/tr/td/div[2]/table[2]/tbody/tr[2]/td</value>
+      <value>//td[4]/table/tbody/tr/td/table/tbody/tr/td[3]/table/tbody/tr/td/img</value>
    </webElementXpaths>
 </WebElementEntity>

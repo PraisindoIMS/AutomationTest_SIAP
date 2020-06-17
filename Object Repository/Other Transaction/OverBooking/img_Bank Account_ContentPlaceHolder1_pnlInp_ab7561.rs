@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Save</name>
+   <name>img_Bank Account_ContentPlaceHolder1_pnlInp_ab7561</name>
    <tag></tag>
-   <elementGuidId>0ae2f9a2-b8fa-4761-8b00-827e39746854</elementGuidId>
+   <elementGuidId>6d717adf-54b4-471b-a350-ba6be0e6f6d8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='ContentPlaceHolder1_btnSave_CD']</value>
+         <value>/html/body/form/div[3]/div/div[2]/div/fieldset/div[1]/fieldset/table/tbody/tr[2]/td[2]/div[1]/table[1]/tbody/tr/td[3]/table/tbody/tr/td/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,78 +17,76 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
+      <value>img</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ContentPlaceHolder1_btnSave_CD</value>
+      <value>ContentPlaceHolder1_pnlInput_cpBankAccountFrom_cmbBankAccFrom_B-1Img</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dxb</value>
+      <value>dxEditors_edtDropDown_Glass</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>src</name>
       <type>Main</type>
-      <value>
-				Save
-			</value>
+      <value>/Custody/SIAP/DXR.axd?r=1_5-ge_xh</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>v</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_btnSave_CD&quot;)</value>
+      <value>id(&quot;ContentPlaceHolder1_pnlInput_cpBankAccountFrom_cmbBankAccFrom_B-1Img&quot;)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Other Transaction/Page_IMS/iframe_This product is licensed to PT Prais_52a220</value>
+      <value>Object Repository/Other Transaction/OverBooking/iframe_This product is licensed to PT Prais_52a220</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='ContentPlaceHolder1_btnSave_CD']</value>
+      <value>//img[@id='ContentPlaceHolder1_pnlInput_cpBankAccountFrom_cmbBankAccFrom_B-1Img']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//td[@id='ContentPlaceHolder1_btnSave_B']/div[2]</value>
+      <value>//td[@id='ContentPlaceHolder1_pnlInput_cpBankAccountFrom_cmbBankAccFrom_B-1']/table/tbody/tr/td/img</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:img</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[3]/following::div[2]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::div[4]</value>
+      <value>(//img[@alt='v'])[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[3]/table/tbody/tr/td/div[2]</value>
+      <value>//td[2]/div/table/tbody/tr/td[3]/table/tbody/tr/td/img</value>
    </webElementXpaths>
 </WebElementEntity>

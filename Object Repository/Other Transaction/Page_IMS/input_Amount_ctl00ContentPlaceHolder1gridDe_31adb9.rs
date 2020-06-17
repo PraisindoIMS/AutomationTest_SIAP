@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Transfer Amount_ctl00ContentPlaceHold_53c6c7</name>
+   <name>input_Amount_ctl00ContentPlaceHolder1gridDe_31adb9</name>
    <tag></tag>
-   <elementGuidId>c806804c-65df-465f-ba5d-6a80e14ccdeb</elementGuidId>
+   <elementGuidId>ecb77edf-9c05-47e2-b879-eadf631eeaac</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor6_I']</value>
+         <value>//input[@id='ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXEditor6_I']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -31,42 +31,42 @@
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>ctl00$ContentPlaceHolder1$pnlInput$gdvGrid$DXEditor6</value>
+      <value>ctl00$ContentPlaceHolder1$gridDeal$dxdt0$TC$gridManual$DXEditor6</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onkeyup</name>
       <type>Main</type>
-      <value>aspxEKeyUp('ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor6', event)</value>
+      <value>aspxEKeyUp('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXEditor6', event)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor6_I</value>
+      <value>ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXEditor6_I</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onchange</name>
       <type>Main</type>
-      <value>aspxETextChanged('ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor6')</value>
+      <value>aspxETextChanged('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXEditor6')</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onblur</name>
       <type>Main</type>
-      <value>aspxELostFocus('ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor6')</value>
+      <value>aspxELostFocus('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXEditor6')</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onfocus</name>
       <type>Main</type>
-      <value>aspxEGotFocus('ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor6')</value>
+      <value>aspxEGotFocus('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXEditor6')</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -80,14 +80,14 @@
       <matchCondition>equals</matchCondition>
       <name>onkeypress</name>
       <type>Main</type>
-      <value>aspxEKeyPress('ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor6', event)</value>
+      <value>aspxEKeyPress('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXEditor6', event)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onkeydown</name>
       <type>Main</type>
-      <value>aspxEKeyDown('ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor6', event)</value>
+      <value>aspxEKeyDown('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXEditor6', event)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,34 +101,34 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor6_I&quot;)</value>
+      <value>id(&quot;ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXEditor6_I&quot;)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Other Transaction/Page_IMS/iframe_This product is licensed to PT Prais_52a220</value>
+      <value>Object Repository/Other Transaction/Page_IMS/iframe_This product is licensed to PT Prais_f49066</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor6_I']</value>
+      <value>//input[@id='ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXEditor6_I']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor6']/tbody/tr/td/input</value>
+      <value>//table[@id='ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXEditor6']/tbody/tr/td/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[2]/td[4]/table/tbody/tr/td/table/tbody/tr/td/input</value>
+      <value>//tr[2]/td[2]/table/tbody/tr/td/input</value>
    </webElementXpaths>
 </WebElementEntity>

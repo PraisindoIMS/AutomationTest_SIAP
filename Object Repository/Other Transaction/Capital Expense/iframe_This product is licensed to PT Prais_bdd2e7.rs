@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_SIAR_x-tree-ec-icon x-tree-elbow-plus</name>
+   <name>iframe_This product is licensed to PT Prais_bdd2e7</name>
    <tag></tag>
-   <elementGuidId>e362044f-06cb-48bb-94f1-104ffeaeb329</elementGuidId>
+   <elementGuidId>23a15fd4-2ec7-4f78-af8e-f864b9c408b8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='ext-gen70']/li/ul/li[2]/div/img</value>
+         <value>//iframe[@id='283_IFrame']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,48 +17,62 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>img</value>
+      <value>iframe</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>283_IFrame</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>283_IFrame</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</value>
+      <value>/Custody/SIAP/pages/SIAP/Transaction/other/CapitalExpense.aspx?ssoid=i90ghdbjksjrpsef838zz9vd4yxne9ezkro_fmikhh6o3&amp;MenuId=283</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>frameborder</name>
       <type>Main</type>
-      <value>x-tree-ec-icon x-tree-elbow-plus</value>
+      <value>0</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ext-gen70&quot;)/li[@class=&quot;x-tree-node&quot;]/ul[@class=&quot;x-tree-node-ct&quot;]/li[@class=&quot;x-tree-node&quot;]/div[@class=&quot;x-tree-node-el x-unselectable x-tree-node-collapsed x-tree-ec-over x-tree-node-over&quot;]/img[@class=&quot;x-tree-ec-icon x-tree-elbow-plus&quot;]</value>
+      <value>id(&quot;283_IFrame&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//ul[@id='ext-gen70']/li/ul/li[2]/div/img</value>
+      <value>//iframe[@id='283_IFrame']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:img</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>(//img[contains(@src,'data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==')])[8]</value>
+      <value>//div[@id='ext-gen88']/iframe</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/div/img</value>
+      <value>//div[2]/div/div/iframe</value>
    </webElementXpaths>
 </WebElementEntity>

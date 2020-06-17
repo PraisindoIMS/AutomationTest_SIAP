@@ -3,11 +3,11 @@
    <description></description>
    <name>img</name>
    <tag></tag>
-   <elementGuidId>29131fe4-e697-4c71-8513-4fbd526a6ba3</elementGuidId>
+   <elementGuidId>92fe760c-dcca-4bc6-acc2-1773f5e1eea7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//img[@onclick=&quot;aspxGVScheduleCommand('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0',['AddNew'],1)&quot;]</value>
+         <value>//img[@onclick=&quot;aspxGVScheduleCommand('ContentPlaceHolder1_gridDeal',['AddNew'],1)&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -31,7 +31,7 @@
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>aspxGVScheduleCommand('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0',['AddNew'],1)</value>
+      <value>aspxGVScheduleCommand('ContentPlaceHolder1_gridDeal',['AddNew'],1)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -52,7 +52,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXMainTable&quot;)/tbody[1]/tr[@class=&quot;dxgvEmptyDataRow_Glass&quot;]/td[@class=&quot;dxgv&quot;]/img[1]</value>
+      <value>id(&quot;ContentPlaceHolder1_gridDeal_DXMainTable&quot;)/tbody[1]/tr[@class=&quot;dxgvEmptyDataRow_Glass&quot;]/td[@class=&quot;dxgv&quot;]/img[1]</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,27 +66,27 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//img[@onclick=&quot;aspxGVScheduleCommand('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0',['AddNew'],1)&quot;]</value>
+      <value>//img[@onclick=&quot;aspxGVScheduleCommand('ContentPlaceHolder1_gridDeal',['AddNew'],1)&quot;]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXMainTable']/tbody/tr[2]/td/img</value>
+      <value>//table[@id='ContentPlaceHolder1_gridDeal_DXMainTable']/tbody/tr[3]/td[2]/img</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>(//img[@alt='New'])[2]</value>
+      <value>//img[@alt='New']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[2]/td/img</value>
+      <value>//td[2]/img</value>
    </webElementXpaths>
 </WebElementEntity>

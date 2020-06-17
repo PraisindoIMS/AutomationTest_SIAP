@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img</name>
+   <name>span_Search</name>
    <tag></tag>
-   <elementGuidId>29131fe4-e697-4c71-8513-4fbd526a6ba3</elementGuidId>
+   <elementGuidId>5e5daaab-283a-484f-8ae3-fdded0bdb719</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//img[@onclick=&quot;aspxGVScheduleCommand('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0',['AddNew'],1)&quot;]</value>
+         <value>//div[@id='ContentPlaceHolder1_btnSearch_CD']/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,42 +17,21 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>img</value>
+      <value>span</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>title</name>
+      <name>text</name>
       <type>Main</type>
-      <value>New</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>aspxGVScheduleCommand('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0',['AddNew'],1)</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>src</name>
-      <type>Main</type>
-      <value>../../../../Images/Grid/Insert.png</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>alt</name>
-      <type>Main</type>
-      <value>New</value>
+      <value>Search</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXMainTable&quot;)/tbody[1]/tr[@class=&quot;dxgvEmptyDataRow_Glass&quot;]/td[@class=&quot;dxgv&quot;]/img[1]</value>
+      <value>id(&quot;ContentPlaceHolder1_btnSearch_CD&quot;)/span[1]</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,29 +43,50 @@
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//img[@onclick=&quot;aspxGVScheduleCommand('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0',['AddNew'],1)&quot;]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXMainTable']/tbody/tr[2]/td/img</value>
+      <value>//div[@id='ContentPlaceHolder1_btnSearch_CD']/span</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:img</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(//img[@alt='New'])[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALL'])[1]/following::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPROVED'])[1]/following::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag a column header here to group by that column'])[1]/preceding::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/preceding::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[2]/td/img</value>
+      <value>//div[2]/span</value>
    </webElementXpaths>
 </WebElementEntity>

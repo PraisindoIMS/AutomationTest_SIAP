@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img</name>
+   <name>td_15</name>
    <tag></tag>
-   <elementGuidId>29131fe4-e697-4c71-8513-4fbd526a6ba3</elementGuidId>
+   <elementGuidId>d3b84b56-779f-4eae-ad0e-cb1f12074057</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//img[@onclick=&quot;aspxGVScheduleCommand('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0',['AddNew'],1)&quot;]</value>
+         <value>//table[@id='ContentPlaceHolder1_dtBeginDate_DDD_C_mt']/tbody/tr[4]/td[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,42 +17,35 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>img</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>title</name>
-      <type>Main</type>
-      <value>New</value>
+      <value>td</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onclick</name>
+      <name>class</name>
       <type>Main</type>
-      <value>aspxGVScheduleCommand('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0',['AddNew'],1)</value>
+      <value>dxeCalendarDay_Glass dxeCalendarSelected_Glass</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>savedcursor</name>
+      <type>Main</type>
+      <value>[object Object]</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>src</name>
+      <name>text</name>
       <type>Main</type>
-      <value>../../../../Images/Grid/Insert.png</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>alt</name>
-      <type>Main</type>
-      <value>New</value>
+      <value>15</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXMainTable&quot;)/tbody[1]/tr[@class=&quot;dxgvEmptyDataRow_Glass&quot;]/td[@class=&quot;dxgv&quot;]/img[1]</value>
+      <value>id(&quot;ContentPlaceHolder1_dtBeginDate_DDD_C_mt&quot;)/tbody[1]/tr[4]/td[@class=&quot;dxeCalendarDay_Glass dxeCalendarSelected_Glass&quot;]</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,29 +57,50 @@
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//img[@onclick=&quot;aspxGVScheduleCommand('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0',['AddNew'],1)&quot;]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXMainTable']/tbody/tr[2]/td/img</value>
+      <value>//table[@id='ContentPlaceHolder1_dtBeginDate_DDD_C_mt']/tbody/tr[4]/td[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:img</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(//img[@alt='New'])[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::td[19]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[1]/following::td[20]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[30]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::td[34]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='15']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[2]/td/img</value>
+      <value>//tr[4]/td[3]</value>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_PFolio_ContentPlaceHolder1_pnlInput_gdvG_6efb9c</name>
+   <name>td_COA_dx</name>
    <tag></tag>
-   <elementGuidId>c4a7ff9a-d0e3-4bd4-9d36-fbbffb5cd457</elementGuidId>
+   <elementGuidId>9cb9ee49-afcc-44bb-a2eb-c4027ecf1b7c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//td[@id='ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor2_B-1']</value>
+         <value>//td[@id='ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_editnew_3_0_ASPxGridLookupCOA_B-1']/table/tbody/tr/td</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -20,87 +20,66 @@
       <value>td</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor2_B-1</value>
-   </webElementProperties>
-   <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dxeButtonEditButton_Glass dxeButtonEditButtonHover_Glass</value>
+      <value>dx</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onmousedown</name>
-      <type>Main</type>
-      <value>return aspxDDDropDown('ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor2', event)</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor2_B-1&quot;)</value>
+      <value>id(&quot;ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_editnew_3_0_ASPxGridLookupCOA_B-1&quot;)/table[@class=&quot;dxbebt&quot;]/tbody[1]/tr[1]/td[@class=&quot;dx&quot;]</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Other Transaction/Page_IMS/iframe_This product is licensed to PT Prais_52a220</value>
+      <value>Object Repository/Other Transaction/Page_IMS/iframe_This product is licensed to PT Prais_f49066</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//td[@id='ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor2_B-1']</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='ContentPlaceHolder1_pnlInput_gdvGrid_DXEditor2']/tbody/tr/td[3]</value>
+      <value>//td[@id='ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_editnew_3_0_ASPxGridLookupCOA_B-1']/table/tbody/tr/td</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='PFolio'])[2]/following::td[5]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COA'])[2]/following::td[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remarks'])[1]/following::td[7]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::td[6]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='PFolio Code'])[1]/preceding::td[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code'])[4]/preceding::td[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='PFolio FName'])[1]/preceding::td[3]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[4]/preceding::td[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[2]/table/tbody/tr/td/table/tbody/tr/td[3]</value>
+      <value>//td/table/tbody/tr/td[2]/table/tbody/tr/td[2]/table/tbody/tr/td</value>
    </webElementXpaths>
 </WebElementEntity>

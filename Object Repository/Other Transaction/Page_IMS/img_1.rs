@@ -3,11 +3,11 @@
    <description></description>
    <name>img_1</name>
    <tag></tag>
-   <elementGuidId>383d70b4-0f41-49d1-b98c-1508eb608099</elementGuidId>
+   <elementGuidId>59d3bd04-0e1e-41e2-b065-50ca8dbdd83a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//img[@onclick=&quot;aspxGVScheduleCommand('ContentPlaceHolder1_pnlInput_gdvGrid',['UpdateEdit'],1)&quot;]</value>
+         <value>//img[@onclick=&quot;aspxGVScheduleCommand('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0',['UpdateEdit'],1)&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -31,7 +31,7 @@
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>aspxGVScheduleCommand('ContentPlaceHolder1_pnlInput_gdvGrid',['UpdateEdit'],1)</value>
+      <value>aspxGVScheduleCommand('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0',['UpdateEdit'],1)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -52,28 +52,28 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_pnlInput_gdvGrid_DXEFT&quot;)/tbody[1]/tr[5]/td[@class=&quot;dxgvCommandColumn_Glass&quot;]/img[1]</value>
+      <value>id(&quot;ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXEFT&quot;)/tbody[1]/tr[4]/td[@class=&quot;dxgvCommandColumn_Glass&quot;]/img[1]</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Other Transaction/Page_IMS/iframe_This product is licensed to PT Prais_52a220</value>
+      <value>Object Repository/Other Transaction/Page_IMS/iframe_This product is licensed to PT Prais_f49066</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//img[@onclick=&quot;aspxGVScheduleCommand('ContentPlaceHolder1_pnlInput_gdvGrid',['UpdateEdit'],1)&quot;]</value>
+      <value>//img[@onclick=&quot;aspxGVScheduleCommand('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0',['UpdateEdit'],1)&quot;]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='ContentPlaceHolder1_pnlInput_gdvGrid_DXEFT']/tbody/tr[5]/td/img</value>
+      <value>//table[@id='ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_DXEFT']/tbody/tr[4]/td/img</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[5]/td/img</value>
+      <value>//tr[4]/td/img</value>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Logout</name>
    <tag></tag>
-   <elementGuidId>795b649b-cdff-4a04-9c93-ab7a3f544c33</elementGuidId>
+   <elementGuidId>73969cb8-744b-4cbf-b0fa-e4dc788deb98</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -80,7 +80,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='laras1'])[1]/following::button[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='andaru'])[1]/following::button[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Logout</name>
+   <name>td_3</name>
    <tag></tag>
-   <elementGuidId>795b649b-cdff-4a04-9c93-ab7a3f544c33</elementGuidId>
+   <elementGuidId>b90f11d4-b1c4-4322-948c-69061496ca88</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='ext-gen25']</value>
+         <value>//td[@onclick=&quot;aspxGVPagerOnClick('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_editnew_3_0_ASPxGridLookupCOA_DDD_gv','PN2');&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,97 +17,90 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>ext-gen25</value>
+      <value>td</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value> x-btn-text icon-lockopen</value>
+      <value>dxpPageNumber_Glass</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>aspxGVPagerOnClick('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_editnew_3_0_ASPxGridLookupCOA_DDD_gv','PN2');</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Logout</value>
+      <value>3</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ext-gen25&quot;)</value>
+      <value>id(&quot;ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_editnew_3_0_ASPxGridLookupCOA_DDD_gv_DXPagerBottom&quot;)/tbody[1]/tr[1]/td[@class=&quot;dxpCtrl&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;dxpPageNumber_Glass&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Other Transaction/Page_IMS/iframe_This product is licensed to PT Prais_f49066</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='ext-gen25']</value>
+      <value>//td[@onclick=&quot;aspxGVPagerOnClick('ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_editnew_3_0_ASPxGridLookupCOA_DDD_gv','PN2');&quot;]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='btnLogout']/tbody/tr[2]/td[2]/em/button</value>
+      <value>//table[@id='ContentPlaceHolder1_gridDeal_dxdt0_gridManual_0_editnew_3_0_ASPxGridLookupCOA_DDD_gv_DXPagerBottom']/tbody/tr/td/table/tbody/tr/td[9]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[1]/following::button[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[2]'])[1]/following::td[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='laras1'])[1]/following::button[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page 2 of 66 (658 items)'])[1]/following::td[8]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Listing Menu'])[1]/preceding::button[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='…'])[1]/preceding::td[10]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter:'])[1]/preceding::button[1]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading…'])[4]/preceding::td[20]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[2]/table/tbody/tr[2]/td[2]/em/button</value>
+      <value>//td/div/table/tbody/tr/td/table/tbody/tr/td[9]</value>
    </webElementXpaths>
 </WebElementEntity>

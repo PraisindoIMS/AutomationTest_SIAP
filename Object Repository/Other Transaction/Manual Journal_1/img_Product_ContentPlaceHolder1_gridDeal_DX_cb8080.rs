@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_Bank Account_ContentPlaceHolder1_pnlInp_ab7561</name>
+   <name>img_Product_ContentPlaceHolder1_gridDeal_DX_cb8080</name>
    <tag></tag>
-   <elementGuidId>6d717adf-54b4-471b-a350-ba6be0e6f6d8</elementGuidId>
+   <elementGuidId>5c7a57ff-02ff-4df7-9051-14e5d03b2367</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//img[@id='ContentPlaceHolder1_pnlInput_cpBankAccountFrom_cmbBankAccFrom_B-1Img']</value>
+         <value>//img[@id='ContentPlaceHolder1_gridDeal_DXEditor3_B-1Img']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -24,7 +24,7 @@
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ContentPlaceHolder1_pnlInput_cpBankAccountFrom_cmbBankAccFrom_B-1Img</value>
+      <value>ContentPlaceHolder1_gridDeal_DXEditor3_B-1Img</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,41 +52,41 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_pnlInput_cpBankAccountFrom_cmbBankAccFrom_B-1Img&quot;)</value>
+      <value>id(&quot;ContentPlaceHolder1_gridDeal_DXEditor3_B-1Img&quot;)</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Other Transaction/Page_IMS/iframe_This product is licensed to PT Prais_52a220</value>
+      <value>Object Repository/Other Transaction/Page_IMS/iframe_This product is licensed to PT Prais_f49066</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//img[@id='ContentPlaceHolder1_pnlInput_cpBankAccountFrom_cmbBankAccFrom_B-1Img']</value>
+      <value>//img[@id='ContentPlaceHolder1_gridDeal_DXEditor3_B-1Img']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//td[@id='ContentPlaceHolder1_pnlInput_cpBankAccountFrom_cmbBankAccFrom_B-1']/table/tbody/tr/td/img</value>
+      <value>//td[@id='ContentPlaceHolder1_gridDeal_DXEditor3_B-1']/table/tbody/tr/td/img</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>(//img[@alt='v'])[3]</value>
+      <value>(//img[@alt='v'])[8]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[2]/div/table/tbody/tr/td[3]/table/tbody/tr/td/img</value>
+      <value>//td[2]/table/tbody/tr/td[3]/table/tbody/tr/td/img</value>
    </webElementXpaths>
 </WebElementEntity>
