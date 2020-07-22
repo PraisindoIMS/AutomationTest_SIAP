@@ -18,7 +18,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://111.67.78.152/Custody/SSO/LoginPages/3/Login.html')
+WebUI.navigateToUrl('https://poc.praisindo.com/Custody/SSO/LoginPages/3/Login.html')
 
 WebUI.setText(findTestObject('Login/input_User ID_UserID'), 'andaru')
 
